@@ -1,0 +1,9 @@
+Generating with seed 9939023093002414570:
+a cat sitting on a bench in tokyo
+Done in 26.6s. Saving output/img_0.jpg
+Saving output/img_0.jpg
+
+Done in 23.5s
+Done in 23.5s
+
+稳定计算：35GB，峰值：40GB

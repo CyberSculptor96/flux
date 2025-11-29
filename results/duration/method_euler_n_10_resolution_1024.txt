@@ -1,0 +1,4 @@
+Extracted Times (seconds):
+[5.2, 5.8, 5.4]
+
+Mean time: 5.4667 seconds

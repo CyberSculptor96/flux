@@ -8,7 +8,9 @@ import torch
 from fire import Fire
 from transformers import pipeline
 
-from flux.sampling import denoise, get_noise, get_schedule, prepare, unpack
+from flux.sampling import denoise, denoise_heun, \
+    get_noise, get_schedule, prepare, unpack
+
 from flux.util import (
     check_onnx_access_for_trt,
     configs,
@@ -119,6 +121,11 @@ def main(
     trt: bool = False,
     trt_transformer_precision: str = "bf16",
     track_usage: bool = False,
+    mu: float | None = None,    ### dev only
+    sigma: float | None = None,  ### dev only
+    shift: bool = False,  ### dev only
+    method: str = "euler",  ### dev only
+    prompt_id: str | None = None,  ### dev only
 ):
     """
     Sample the flux model. Either interactively (set `--loop`) or run for a
@@ -168,7 +175,14 @@ def main(
     height = 16 * (height // 16)
     width = 16 * (width // 16)
 
-    output_name = os.path.join(output_dir, "img_{idx}.jpg")
+    # output_name = os.path.join(output_dir, "img_{idx}.jpg")
+    output_name = os.path.join(
+        output_dir, f"{prompt_id}.jpg"
+    )
+    if os.path.exists(output_name):
+        print(f"[INFO] Output {output_name} already exists, skipping...")
+        return
+
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         idx = 0
@@ -252,7 +266,9 @@ def main(
             torch.cuda.empty_cache()
             t5, clip = t5.to(torch_device), clip.to(torch_device)
         inp = prepare(t5, clip, x, prompt=opts.prompt)
-        timesteps = get_schedule(opts.num_steps, inp["img"].shape[1], shift=(name != "flux-schnell"))
+        timesteps = get_schedule(opts.num_steps, inp["img"].shape[1], 
+                                 shift=(name != "flux-schnell") and shift,  ### dev
+                                 mu=mu, sigma=sigma)  ### dev only
 
         # offload TEs to CPU, load model to gpu
         if offload:
@@ -260,8 +276,13 @@ def main(
             torch.cuda.empty_cache()
             model = model.to(torch_device)
 
-        # denoise initial noise
-        x = denoise(model, **inp, timesteps=timesteps, guidance=opts.guidance)
+        ## denoise initial noise
+        if method == "euler":
+            x = denoise(model, **inp, timesteps=timesteps, guidance=opts.guidance)
+        elif method == "heun":
+            x = denoise_heun(model, **inp, timesteps=timesteps, guidance=opts.guidance)
+        else:
+            raise ValueError(f"Unknown ODE method: {method}")
 
         # offload model, load autoencoder to gpu
         if offload:

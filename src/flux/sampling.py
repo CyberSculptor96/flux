@@ -292,6 +292,8 @@ def get_schedule(
     base_shift: float = 0.5,
     max_shift: float = 1.15,
     shift: bool = True,
+    mu: float | None = None,    ### dev only
+    sigma: float | None = None,  ### dev only
 ) -> list[float]:
     # extra step for zero
     timesteps = torch.linspace(1, 0, num_steps + 1)
@@ -299,8 +301,27 @@ def get_schedule(
     # shifting the schedule to favor high timesteps for higher signal images
     if shift:
         # estimate mu based on linear estimation between two points
-        mu = get_lin_function(y1=base_shift, y2=max_shift)(image_seq_len)
-        timesteps = time_shift(mu, 1.0, timesteps)
+        # mu = get_lin_function(y1=base_shift, y2=max_shift)(image_seq_len)
+        
+        print("Using time shift in schedule!")
+        ## change mu directly for dev purpose
+        if mu is None:
+            mu = get_lin_function(y1=base_shift, y2=max_shift)(image_seq_len)
+            print(f"Using estimated mu: {mu}")
+        else:
+            print(f"Using provided mu: {mu}")
+            mu = float(mu)
+            
+        if sigma is None:
+            sigma = 1.0
+            print(f"Using default sigma: {sigma}")
+        else:
+            print(f"Using provided sigma: {sigma}")
+            sigma = float(sigma)
+
+        timesteps = time_shift(mu, sigma, timesteps)
+    else:
+        print("Not using time shift in schedule!")
 
     return timesteps.tolist()
 
@@ -350,6 +371,83 @@ def denoise(
 
         img = img + (t_prev - t_curr) * pred
 
+    return img
+
+
+def denoise_heun(
+    model: Flux,
+    # model input
+    img: Tensor,
+    img_ids: Tensor,
+    txt: Tensor,
+    txt_ids: Tensor,
+    vec: Tensor,
+    # sampling parameters
+    timesteps: list[float],
+    guidance: float = 4.0,
+    # extra img tokens (channel-wise)
+    img_cond: Tensor | None = None,
+    # extra img tokens (sequence-wise)
+    img_cond_seq: Tensor | None = None,
+    img_cond_seq_ids: Tensor | None = None,
+):
+    # this is ignored for schnell
+    guidance_vec = torch.full((img.shape[0],), guidance, device=img.device, dtype=img.dtype)
+    for t_curr, t_next in zip(timesteps[:-1], timesteps[1:]):
+        # Δt
+        dt = t_next - t_curr
+
+        # ---- Stage 1: k1 ----
+        t_vec = torch.full((img.shape[0],), t_curr, dtype=img.dtype, device=img.device)
+
+        img_input = img
+        img_input_ids = img_ids
+        if img_cond is not None:
+            img_input = torch.cat((img, img_cond), dim=-1)
+        if img_cond_seq is not None:
+            img_input = torch.cat((img_input, img_cond_seq), dim=1)
+            img_input_ids = torch.cat((img_input_ids, img_cond_seq_ids), dim=1)
+
+        pred1 = model(
+            img=img_input,
+            img_ids=img_input_ids,
+            txt=txt,
+            txt_ids=txt_ids,
+            y=vec,
+            timesteps=t_vec,
+            guidance=guidance_vec,
+        )
+        if img_input_ids is not None:
+            pred1 = pred1[:, : img.shape[1]]
+
+        img_pred = img + dt * pred1        # Euler prediction (tilde x)
+
+        # ---- Stage 2: k2 ----
+        t_vec2 = torch.full((img.shape[0],), t_next, dtype=img.dtype, device=img.device)
+
+        img_input2 = img_pred
+        img_input_ids2 = img_ids
+        if img_cond is not None:
+            img_input2 = torch.cat((img_pred, img_cond), dim=-1)
+        if img_cond_seq is not None:
+            img_input2 = torch.cat((img_input2, img_cond_seq), dim=1)
+            img_input_ids2 = torch.cat((img_input_ids2, img_cond_seq_ids), dim=1)
+
+        pred2 = model(
+            img=img_input2,
+            img_ids=img_input_ids2,
+            txt=txt,
+            txt_ids=txt_ids,
+            y=vec,
+            timesteps=t_vec2,
+            guidance=guidance_vec,
+        )
+        if img_input_ids2 is not None:
+            pred2 = pred2[:, : img.shape[1]]
+
+        # ---- Heun update ----
+        img = img + 0.5 * dt * (pred1 + pred2)
+    
     return img
 
 
