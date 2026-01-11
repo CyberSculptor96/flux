@@ -1,0 +1,4342 @@
+[
+  {
+    "prompt": "A red colored car.",
+    "prompt_id": 0
+  },
+  {
+    "prompt": "A black colored car.",
+    "prompt_id": 1
+  },
+  {
+    "prompt": "A pink colored car.",
+    "prompt_id": 2
+  },
+  {
+    "prompt": "A black colored dog.",
+    "prompt_id": 3
+  },
+  {
+    "prompt": "A red colored dog.",
+    "prompt_id": 4
+  },
+  {
+    "prompt": "A blue colored dog.",
+    "prompt_id": 5
+  },
+  {
+    "prompt": "A green colored banana.",
+    "prompt_id": 6
+  },
+  {
+    "prompt": "A red colored banana.",
+    "prompt_id": 7
+  },
+  {
+    "prompt": "A black colored banana.",
+    "prompt_id": 8
+  },
+  {
+    "prompt": "A white colored sandwich.",
+    "prompt_id": 9
+  },
+  {
+    "prompt": "A black colored sandwich.",
+    "prompt_id": 10
+  },
+  {
+    "prompt": "An orange colored sandwich.",
+    "prompt_id": 11
+  },
+  {
+    "prompt": "A pink colored giraffe.",
+    "prompt_id": 12
+  },
+  {
+    "prompt": "A yellow colored giraffe.",
+    "prompt_id": 13
+  },
+  {
+    "prompt": "A brown colored giraffe.",
+    "prompt_id": 14
+  },
+  {
+    "prompt": "A red car and a white sheep.",
+    "prompt_id": 15
+  },
+  {
+    "prompt": "A blue bird and a brown bear.",
+    "prompt_id": 16
+  },
+  {
+    "prompt": "A green apple and a black backpack.",
+    "prompt_id": 17
+  },
+  {
+    "prompt": "A green cup and a blue cell phone.",
+    "prompt_id": 18
+  },
+  {
+    "prompt": "A yellow book and a red vase.",
+    "prompt_id": 19
+  },
+  {
+    "prompt": "A white car and a red sheep.",
+    "prompt_id": 20
+  },
+  {
+    "prompt": "A brown bird and a blue bear.",
+    "prompt_id": 21
+  },
+  {
+    "prompt": "A black apple and a green backpack.",
+    "prompt_id": 22
+  },
+  {
+    "prompt": "A blue cup and a green cell phone.",
+    "prompt_id": 23
+  },
+  {
+    "prompt": "A red book and a yellow vase.",
+    "prompt_id": 24
+  },
+  {
+    "prompt": "A horse riding an astronaut.",
+    "prompt_id": 25
+  },
+  {
+    "prompt": "A pizza cooking an oven.",
+    "prompt_id": 26
+  },
+  {
+    "prompt": "A bird scaring a scarecrow.",
+    "prompt_id": 27
+  },
+  {
+    "prompt": "A blue coloured pizza.",
+    "prompt_id": 28
+  },
+  {
+    "prompt": "Hovering cow abducting aliens.",
+    "prompt_id": 29
+  },
+  {
+    "prompt": "A panda making latte art.",
+    "prompt_id": 30
+  },
+  {
+    "prompt": "A shark in the desert.",
+    "prompt_id": 31
+  },
+  {
+    "prompt": "An elephant under the sea.",
+    "prompt_id": 32
+  },
+  {
+    "prompt": "Rainbow coloured penguin.",
+    "prompt_id": 33
+  },
+  {
+    "prompt": "A fish eating a pelican.",
+    "prompt_id": 34
+  },
+  {
+    "prompt": "One car on the street.",
+    "prompt_id": 35
+  },
+  {
+    "prompt": "Two cars on the street.",
+    "prompt_id": 36
+  },
+  {
+    "prompt": "Three cars on the street.",
+    "prompt_id": 37
+  },
+  {
+    "prompt": "Four cars on the street.",
+    "prompt_id": 38
+  },
+  {
+    "prompt": "Five cars on the street.",
+    "prompt_id": 39
+  },
+  {
+    "prompt": "One dog on the street.",
+    "prompt_id": 40
+  },
+  {
+    "prompt": "Two dogs on the street.",
+    "prompt_id": 41
+  },
+  {
+    "prompt": "Three dogs on the street.",
+    "prompt_id": 42
+  },
+  {
+    "prompt": "Four dogs on the street.",
+    "prompt_id": 43
+  },
+  {
+    "prompt": "Five dogs on the street.",
+    "prompt_id": 44
+  },
+  {
+    "prompt": "A single clock is sitting on a table.",
+    "prompt_id": 45
+  },
+  {
+    "prompt": "A cross-section view of a brain.",
+    "prompt_id": 46
+  },
+  {
+    "prompt": "A mechanical or electrical device for measuring time.",
+    "prompt_id": 47
+  },
+  {
+    "prompt": "A train on top of a surfboard.",
+    "prompt_id": 48
+  },
+  {
+    "prompt": "A wine glass on top of a dog.",
+    "prompt_id": 49
+  },
+  {
+    "prompt": "A bicycle on top of a boat.",
+    "prompt_id": 50
+  },
+  {
+    "prompt": "An umbrella on top of a spoon.",
+    "prompt_id": 51
+  },
+  {
+    "prompt": "A laptop on top of a teddy bear.",
+    "prompt_id": 52
+  },
+  {
+    "prompt": "A giraffe underneath a microwave.",
+    "prompt_id": 53
+  },
+  {
+    "prompt": "A donut underneath a toilet.",
+    "prompt_id": 54
+  },
+  {
+    "prompt": "A hair drier underneath a sheep.",
+    "prompt_id": 55
+  },
+  {
+    "prompt": "A tennis racket underneath a traffic light.",
+    "prompt_id": 56
+  },
+  {
+    "prompt": "A zebra underneath a broccoli.",
+    "prompt_id": 57
+  },
+  {
+    "prompt": "A banana on the left of an apple.",
+    "prompt_id": 58
+  },
+  {
+    "prompt": "A couch on the left of a chair.",
+    "prompt_id": 59
+  },
+  {
+    "prompt": "A car on the left of a bus.",
+    "prompt_id": 60
+  },
+  {
+    "prompt": "A cat on the left of a dog.",
+    "prompt_id": 61
+  },
+  {
+    "prompt": "A carrot on the left of a broccoli.",
+    "prompt_id": 62
+  },
+  {
+    "prompt": "A pizza on the right of a suitcase.",
+    "prompt_id": 63
+  },
+  {
+    "prompt": "Lego Arnold Schwarzenegger.",
+    "prompt_id": 64
+  },
+  {
+    "prompt": "A medieval painting of the wifi not working.",
+    "prompt_id": 65
+  },
+  {
+    "prompt": "McDonalds Church.",
+    "prompt_id": 66
+  },
+  {
+    "prompt": "A car playing soccer, digital art.",
+    "prompt_id": 67
+  },
+  {
+    "prompt": "bond",
+    "prompt_id": 68
+  },
+  {
+    "prompt": "element",
+    "prompt_id": 69
+  },
+  {
+    "prompt": "molecule",
+    "prompt_id": 70
+  },
+  {
+    "prompt": "life",
+    "prompt_id": 71
+  },
+  {
+    "prompt": "protein",
+    "prompt_id": 72
+  },
+  {
+    "prompt": "yin-yang",
+    "prompt_id": 73
+  },
+  {
+    "prompt": "wood",
+    "prompt_id": 74
+  },
+  {
+    "prompt": "metal",
+    "prompt_id": 75
+  },
+  {
+    "prompt": "space",
+    "prompt_id": 76
+  },
+  {
+    "prompt": "air",
+    "prompt_id": 77
+  },
+  {
+    "prompt": "fire",
+    "prompt_id": 78
+  },
+  {
+    "prompt": "water",
+    "prompt_id": 79
+  },
+  {
+    "prompt": "earth",
+    "prompt_id": 80
+  },
+  {
+    "prompt": "force",
+    "prompt_id": 81
+  },
+  {
+    "prompt": "motion",
+    "prompt_id": 82
+  },
+  {
+    "prompt": "inertia",
+    "prompt_id": 83
+  },
+  {
+    "prompt": "energy",
+    "prompt_id": 84
+  },
+  {
+    "prompt": "black hole",
+    "prompt_id": 85
+  },
+  {
+    "prompt": "gravity",
+    "prompt_id": 86
+  },
+  {
+    "prompt": "peace",
+    "prompt_id": 87
+  },
+  {
+    "prompt": "fairness",
+    "prompt_id": 88
+  },
+  {
+    "prompt": "gender",
+    "prompt_id": 89
+  },
+  {
+    "prompt": "intelligence",
+    "prompt_id": 90
+  },
+  {
+    "prompt": "bias",
+    "prompt_id": 91
+  },
+  {
+    "prompt": "hate",
+    "prompt_id": 92
+  },
+  {
+    "prompt": "anger",
+    "prompt_id": 93
+  },
+  {
+    "prompt": "emotion",
+    "prompt_id": 94
+  },
+  {
+    "prompt": "feeling",
+    "prompt_id": 95
+  },
+  {
+    "prompt": "love",
+    "prompt_id": 96
+  },
+  {
+    "prompt": "artificial intelligence",
+    "prompt_id": 97
+  },
+  {
+    "prompt": "meaning of life",
+    "prompt_id": 98
+  },
+  {
+    "prompt": "42",
+    "prompt_id": 99
+  },
+  {
+    "prompt": "0",
+    "prompt_id": 100
+  },
+  {
+    "prompt": "infinity",
+    "prompt_id": 101
+  },
+  {
+    "prompt": "imaginary numbers",
+    "prompt_id": 102
+  },
+  {
+    "prompt": "Fibonacci number",
+    "prompt_id": 103
+  },
+  {
+    "prompt": "golden ratio",
+    "prompt_id": 104
+  },
+  {
+    "prompt": "an F1",
+    "prompt_id": 105
+  },
+  {
+    "prompt": "parallel lines",
+    "prompt_id": 106
+  },
+  {
+    "prompt": "concentric circles",
+    "prompt_id": 107
+  },
+  {
+    "prompt": "concurrent lines",
+    "prompt_id": 108
+  },
+  {
+    "prompt": "congruent triangles",
+    "prompt_id": 109
+  },
+  {
+    "prompt": "a hot air balloon",
+    "prompt_id": 110
+  },
+  {
+    "prompt": "The Starry Night",
+    "prompt_id": 111
+  },
+  {
+    "prompt": "300",
+    "prompt_id": 112
+  },
+  {
+    "prompt": "101",
+    "prompt_id": 113
+  },
+  {
+    "prompt": "U.S. 101",
+    "prompt_id": 114
+  },
+  {
+    "prompt": "commonsense",
+    "prompt_id": 115
+  },
+  {
+    "prompt": "happiness",
+    "prompt_id": 116
+  },
+  {
+    "prompt": "hope",
+    "prompt_id": 117
+  },
+  {
+    "prompt": "insight",
+    "prompt_id": 118
+  },
+  {
+    "prompt": "inspiration",
+    "prompt_id": 119
+  },
+  {
+    "prompt": "derision",
+    "prompt_id": 120
+  },
+  {
+    "prompt": "Salvador Dalí",
+    "prompt_id": 121
+  },
+  {
+    "prompt": "a shiba inu",
+    "prompt_id": 122
+  },
+  {
+    "prompt": "a handpalm",
+    "prompt_id": 123
+  },
+  {
+    "prompt": "an espresso machine",
+    "prompt_id": 124
+  },
+  {
+    "prompt": "a propaganda poster",
+    "prompt_id": 125
+  },
+  {
+    "prompt": "The Oriental Pearl",
+    "prompt_id": 126
+  },
+  {
+    "prompt": "Ha Long Bay",
+    "prompt_id": 127
+  },
+  {
+    "prompt": "A Vietnam map",
+    "prompt_id": 128
+  },
+  {
+    "prompt": "A bowl of Pho",
+    "prompt_id": 129
+  },
+  {
+    "prompt": "a snail",
+    "prompt_id": 130
+  },
+  {
+    "prompt": "brain coral",
+    "prompt_id": 131
+  },
+  {
+    "prompt": "a walnut",
+    "prompt_id": 132
+  },
+  {
+    "prompt": "a capybara",
+    "prompt_id": 133
+  },
+  {
+    "prompt": "a baby penguin",
+    "prompt_id": 134
+  },
+  {
+    "prompt": "a cup of boba",
+    "prompt_id": 135
+  },
+  {
+    "prompt": "a photo of san francisco's golden gate bridge",
+    "prompt_id": 136
+  },
+  {
+    "prompt": "A picture of some food in the plate",
+    "prompt_id": 137
+  },
+  {
+    "prompt": "a chair",
+    "prompt_id": 138
+  },
+  {
+    "prompt": "the Empire State Building",
+    "prompt_id": 139
+  },
+  {
+    "prompt": "the Sydney Opera House",
+    "prompt_id": 140
+  },
+  {
+    "prompt": "a hedgehog",
+    "prompt_id": 141
+  },
+  {
+    "prompt": "a corgi",
+    "prompt_id": 142
+  },
+  {
+    "prompt": "a robot",
+    "prompt_id": 143
+  },
+  {
+    "prompt": "robots",
+    "prompt_id": 144
+  },
+  {
+    "prompt": "a fall landscape",
+    "prompt_id": 145
+  },
+  {
+    "prompt": "a sunset",
+    "prompt_id": 146
+  },
+  {
+    "prompt": "a boat",
+    "prompt_id": 147
+  },
+  {
+    "prompt": "a fox",
+    "prompt_id": 148
+  },
+  {
+    "prompt": "a red cube",
+    "prompt_id": 149
+  },
+  {
+    "prompt": "a panda",
+    "prompt_id": 150
+  },
+  {
+    "prompt": "a space elevator",
+    "prompt_id": 151
+  },
+  {
+    "prompt": "a city",
+    "prompt_id": 152
+  },
+  {
+    "prompt": "a fog",
+    "prompt_id": 153
+  },
+  {
+    "prompt": "a clock",
+    "prompt_id": 154
+  },
+  {
+    "prompt": "a phone",
+    "prompt_id": 155
+  },
+  {
+    "prompt": "food",
+    "prompt_id": 156
+  },
+  {
+    "prompt": "a store front",
+    "prompt_id": 157
+  },
+  {
+    "prompt": "an armchair",
+    "prompt_id": 158
+  },
+  {
+    "prompt": "a teapot",
+    "prompt_id": 159
+  },
+  {
+    "prompt": "an illustration of a teapot",
+    "prompt_id": 160
+  },
+  {
+    "prompt": "a tiger",
+    "prompt_id": 161
+  },
+  {
+    "prompt": "a bench",
+    "prompt_id": 162
+  },
+  {
+    "prompt": "an orange",
+    "prompt_id": 163
+  },
+  {
+    "prompt": "a laptop",
+    "prompt_id": 164
+  },
+  {
+    "prompt": "an owl",
+    "prompt_id": 165
+  },
+  {
+    "prompt": "a train",
+    "prompt_id": 166
+  },
+  {
+    "prompt": "a cow",
+    "prompt_id": 167
+  },
+  {
+    "prompt": "a submarine",
+    "prompt_id": 168
+  },
+  {
+    "prompt": "a whale",
+    "prompt_id": 169
+  },
+  {
+    "prompt": "a t-shirt",
+    "prompt_id": 170
+  },
+  {
+    "prompt": "a bowl",
+    "prompt_id": 171
+  },
+  {
+    "prompt": "a flag",
+    "prompt_id": 172
+  },
+  {
+    "prompt": "a cat",
+    "prompt_id": 173
+  },
+  {
+    "prompt": "a towel",
+    "prompt_id": 174
+  },
+  {
+    "prompt": "a wall",
+    "prompt_id": 175
+  },
+  {
+    "prompt": "a car",
+    "prompt_id": 176
+  },
+  {
+    "prompt": "a giraffe",
+    "prompt_id": 177
+  },
+  {
+    "prompt": "an eagle",
+    "prompt_id": 178
+  },
+  {
+    "prompt": "a kangaroo",
+    "prompt_id": 179
+  },
+  {
+    "prompt": "a canal",
+    "prompt_id": 180
+  },
+  {
+    "prompt": "the grand canyon",
+    "prompt_id": 181
+  },
+  {
+    "prompt": "lily pads",
+    "prompt_id": 182
+  },
+  {
+    "prompt": "a street",
+    "prompt_id": 183
+  },
+  {
+    "prompt": "a house",
+    "prompt_id": 184
+  },
+  {
+    "prompt": "a fish",
+    "prompt_id": 185
+  },
+  {
+    "prompt": "a city intersection",
+    "prompt_id": 186
+  },
+  {
+    "prompt": "a circle",
+    "prompt_id": 187
+  },
+  {
+    "prompt": "a red circle",
+    "prompt_id": 188
+  },
+  {
+    "prompt": "a box",
+    "prompt_id": 189
+  },
+  {
+    "prompt": "a yellow box",
+    "prompt_id": 190
+  },
+  {
+    "prompt": "a red box",
+    "prompt_id": 191
+  },
+  {
+    "prompt": "a sphere",
+    "prompt_id": 192
+  },
+  {
+    "prompt": "a red sphere",
+    "prompt_id": 193
+  },
+  {
+    "prompt": "a large blue box",
+    "prompt_id": 194
+  },
+  {
+    "prompt": "a blue metallic sphere",
+    "prompt_id": 195
+  },
+  {
+    "prompt": "a horse",
+    "prompt_id": 196
+  },
+  {
+    "prompt": "a pumpkin",
+    "prompt_id": 197
+  },
+  {
+    "prompt": "a sword",
+    "prompt_id": 198
+  },
+  {
+    "prompt": "a statue",
+    "prompt_id": 199
+  },
+  {
+    "prompt": "a logo",
+    "prompt_id": 200
+  },
+  {
+    "prompt": "a circular logo",
+    "prompt_id": 201
+  },
+  {
+    "prompt": "a coffee mug",
+    "prompt_id": 202
+  },
+  {
+    "prompt": "a pig",
+    "prompt_id": 203
+  },
+  {
+    "prompt": "a squirrel",
+    "prompt_id": 204
+  },
+  {
+    "prompt": "a hammer",
+    "prompt_id": 205
+  },
+  {
+    "prompt": "a screwdriver",
+    "prompt_id": 206
+  },
+  {
+    "prompt": "a handsaw",
+    "prompt_id": 207
+  },
+  {
+    "prompt": "a power drill",
+    "prompt_id": 208
+  },
+  {
+    "prompt": "a cocktail",
+    "prompt_id": 209
+  },
+  {
+    "prompt": "a margarita",
+    "prompt_id": 210
+  },
+  {
+    "prompt": "an avocado",
+    "prompt_id": 211
+  },
+  {
+    "prompt": "a kitchen",
+    "prompt_id": 212
+  },
+  {
+    "prompt": "an iPhone case",
+    "prompt_id": 213
+  },
+  {
+    "prompt": "a coffee maker",
+    "prompt_id": 214
+  },
+  {
+    "prompt": "a banana",
+    "prompt_id": 215
+  },
+  {
+    "prompt": "a violin",
+    "prompt_id": 216
+  },
+  {
+    "prompt": "a room",
+    "prompt_id": 217
+  },
+  {
+    "prompt": "a mountain",
+    "prompt_id": 218
+  },
+  {
+    "prompt": "a bird",
+    "prompt_id": 219
+  },
+  {
+    "prompt": "a TV",
+    "prompt_id": 220
+  },
+  {
+    "prompt": "a Christmas tree",
+    "prompt_id": 221
+  },
+  {
+    "prompt": "The Statue of Liberty",
+    "prompt_id": 222
+  },
+  {
+    "prompt": "the Eiffel Tower",
+    "prompt_id": 223
+  },
+  {
+    "prompt": "a zebra",
+    "prompt_id": 224
+  },
+  {
+    "prompt": "the city of London",
+    "prompt_id": 225
+  },
+  {
+    "prompt": "a koi fish",
+    "prompt_id": 226
+  },
+  {
+    "prompt": "a pineapple",
+    "prompt_id": 227
+  },
+  {
+    "prompt": "a toaster",
+    "prompt_id": 228
+  },
+  {
+    "prompt": "a sign",
+    "prompt_id": 229
+  },
+  {
+    "prompt": "a red lego block",
+    "prompt_id": 230
+  },
+  {
+    "prompt": "teacup",
+    "prompt_id": 231
+  },
+  {
+    "prompt": "chair",
+    "prompt_id": 232
+  },
+  {
+    "prompt": "waterfall",
+    "prompt_id": 233
+  },
+  {
+    "prompt": "a pirate ship",
+    "prompt_id": 234
+  },
+  {
+    "prompt": "a dragon",
+    "prompt_id": 235
+  },
+  {
+    "prompt": "a present",
+    "prompt_id": 236
+  },
+  {
+    "prompt": "a bottle",
+    "prompt_id": 237
+  },
+  {
+    "prompt": "a book cover",
+    "prompt_id": 238
+  },
+  {
+    "prompt": "a sweatshirt",
+    "prompt_id": 239
+  },
+  {
+    "prompt": "matching socks",
+    "prompt_id": 240
+  },
+  {
+    "prompt": "cash",
+    "prompt_id": 241
+  },
+  {
+    "prompt": "a wood cabin",
+    "prompt_id": 242
+  },
+  {
+    "prompt": "a clock tower",
+    "prompt_id": 243
+  },
+  {
+    "prompt": "a chimpanzee",
+    "prompt_id": 244
+  },
+  {
+    "prompt": "a hat",
+    "prompt_id": 245
+  },
+  {
+    "prompt": "sneakers",
+    "prompt_id": 246
+  },
+  {
+    "prompt": "a roast turkey",
+    "prompt_id": 247
+  },
+  {
+    "prompt": "a turkey",
+    "prompt_id": 248
+  },
+  {
+    "prompt": "a plate",
+    "prompt_id": 249
+  },
+  {
+    "prompt": "a ladder",
+    "prompt_id": 250
+  },
+  {
+    "prompt": "a Tyrannosaurus Rex",
+    "prompt_id": 251
+  },
+  {
+    "prompt": "a Stegasaurus",
+    "prompt_id": 252
+  },
+  {
+    "prompt": "a Triceratops",
+    "prompt_id": 253
+  },
+  {
+    "prompt": "a Styracosaurus",
+    "prompt_id": 254
+  },
+  {
+    "prompt": "a Diplodocus",
+    "prompt_id": 255
+  },
+  {
+    "prompt": "a yellow sticky note",
+    "prompt_id": 256
+  },
+  {
+    "prompt": "a ball",
+    "prompt_id": 257
+  },
+  {
+    "prompt": "red balls",
+    "prompt_id": 258
+  },
+  {
+    "prompt": "an ostrich",
+    "prompt_id": 259
+  },
+  {
+    "prompt": "a stone path",
+    "prompt_id": 260
+  },
+  {
+    "prompt": "a wooden deck",
+    "prompt_id": 261
+  },
+  {
+    "prompt": "an F1 race car",
+    "prompt_id": 262
+  },
+  {
+    "prompt": "a taxi",
+    "prompt_id": 263
+  },
+  {
+    "prompt": "a road",
+    "prompt_id": 264
+  },
+  {
+    "prompt": "a volcano",
+    "prompt_id": 265
+  },
+  {
+    "prompt": "a large open book",
+    "prompt_id": 266
+  },
+  {
+    "prompt": "a living room",
+    "prompt_id": 267
+  },
+  {
+    "prompt": "an elephant",
+    "prompt_id": 268
+  },
+  {
+    "prompt": "a tree",
+    "prompt_id": 269
+  },
+  {
+    "prompt": "a dolphin",
+    "prompt_id": 270
+  },
+  {
+    "prompt": "a rowboat",
+    "prompt_id": 271
+  },
+  {
+    "prompt": "a crown",
+    "prompt_id": 272
+  },
+  {
+    "prompt": "a pick-up truck",
+    "prompt_id": 273
+  },
+  {
+    "prompt": "a key",
+    "prompt_id": 274
+  },
+  {
+    "prompt": "a goat",
+    "prompt_id": 275
+  },
+  {
+    "prompt": "a chest",
+    "prompt_id": 276
+  },
+  {
+    "prompt": "a coffee table",
+    "prompt_id": 277
+  },
+  {
+    "prompt": "toy cars",
+    "prompt_id": 278
+  },
+  {
+    "prompt": "a bookshelf",
+    "prompt_id": 279
+  },
+  {
+    "prompt": "the moon",
+    "prompt_id": 280
+  },
+  {
+    "prompt": "the Earth",
+    "prompt_id": 281
+  },
+  {
+    "prompt": "the International Space Station",
+    "prompt_id": 282
+  },
+  {
+    "prompt": "the planet Jupiter",
+    "prompt_id": 283
+  },
+  {
+    "prompt": "a tornado",
+    "prompt_id": 284
+  },
+  {
+    "prompt": "a tidal wave",
+    "prompt_id": 285
+  },
+  {
+    "prompt": "a laptop screen",
+    "prompt_id": 286
+  },
+  {
+    "prompt": "an airplane",
+    "prompt_id": 287
+  },
+  {
+    "prompt": "a butterfly",
+    "prompt_id": 288
+  },
+  {
+    "prompt": "a lizard",
+    "prompt_id": 289
+  },
+  {
+    "prompt": "a turtle",
+    "prompt_id": 290
+  },
+  {
+    "prompt": "an octopus",
+    "prompt_id": 291
+  },
+  {
+    "prompt": "a book",
+    "prompt_id": 292
+  },
+  {
+    "prompt": "a moose",
+    "prompt_id": 293
+  },
+  {
+    "prompt": "a kachina doll",
+    "prompt_id": 294
+  },
+  {
+    "prompt": "a doorknocker",
+    "prompt_id": 295
+  },
+  {
+    "prompt": "a rabbit",
+    "prompt_id": 296
+  },
+  {
+    "prompt": "orange juice",
+    "prompt_id": 297
+  },
+  {
+    "prompt": "a green pepper",
+    "prompt_id": 298
+  },
+  {
+    "prompt": "beer",
+    "prompt_id": 299
+  },
+  {
+    "prompt": "Times Square",
+    "prompt_id": 300
+  },
+  {
+    "prompt": "the Great Wall",
+    "prompt_id": 301
+  },
+  {
+    "prompt": "the Kremlin",
+    "prompt_id": 302
+  },
+  {
+    "prompt": "a pickup truck",
+    "prompt_id": 303
+  },
+  {
+    "prompt": "a shoe",
+    "prompt_id": 304
+  },
+  {
+    "prompt": "a plant",
+    "prompt_id": 305
+  },
+  {
+    "prompt": "a flower",
+    "prompt_id": 306
+  },
+  {
+    "prompt": "a pair of headphones",
+    "prompt_id": 307
+  },
+  {
+    "prompt": "a chemtrail",
+    "prompt_id": 308
+  },
+  {
+    "prompt": "a tennis court",
+    "prompt_id": 309
+  },
+  {
+    "prompt": "a ceiling fan",
+    "prompt_id": 310
+  },
+  {
+    "prompt": "a fire hydrant",
+    "prompt_id": 311
+  },
+  {
+    "prompt": "a wooden post",
+    "prompt_id": 312
+  },
+  {
+    "prompt": "a trash bin",
+    "prompt_id": 313
+  },
+  {
+    "prompt": "a piano",
+    "prompt_id": 314
+  },
+  {
+    "prompt": "a musical note",
+    "prompt_id": 315
+  },
+  {
+    "prompt": "a harp",
+    "prompt_id": 316
+  },
+  {
+    "prompt": "a tuba",
+    "prompt_id": 317
+  },
+  {
+    "prompt": "The Alamo",
+    "prompt_id": 318
+  },
+  {
+    "prompt": "a windmill",
+    "prompt_id": 319
+  },
+  {
+    "prompt": "the geyser Old Faithful",
+    "prompt_id": 320
+  },
+  {
+    "prompt": "a motorcycle",
+    "prompt_id": 321
+  },
+  {
+    "prompt": "a painting of black and white",
+    "prompt_id": 322
+  },
+  {
+    "prompt": "the Great Pyramid",
+    "prompt_id": 323
+  },
+  {
+    "prompt": "the Parthenon",
+    "prompt_id": 324
+  },
+  {
+    "prompt": "the Millennium Wheel",
+    "prompt_id": 325
+  },
+  {
+    "prompt": "a marina",
+    "prompt_id": 326
+  },
+  {
+    "prompt": "a team",
+    "prompt_id": 327
+  },
+  {
+    "prompt": "a child",
+    "prompt_id": 328
+  },
+  {
+    "prompt": "a man",
+    "prompt_id": 329
+  },
+  {
+    "prompt": "a woman",
+    "prompt_id": 330
+  },
+  {
+    "prompt": "a girl",
+    "prompt_id": 331
+  },
+  {
+    "prompt": "a person",
+    "prompt_id": 332
+  },
+  {
+    "prompt": "a boy",
+    "prompt_id": 333
+  },
+  {
+    "prompt": "a boy and a tiger",
+    "prompt_id": 334
+  },
+  {
+    "prompt": "a family",
+    "prompt_id": 335
+  },
+  {
+    "prompt": "a father and a son",
+    "prompt_id": 336
+  },
+  {
+    "prompt": "a portrait of an old man",
+    "prompt_id": 337
+  },
+  {
+    "prompt": "a portrait of young girl",
+    "prompt_id": 338
+  },
+  {
+    "prompt": "a scientist",
+    "prompt_id": 339
+  },
+  {
+    "prompt": "Snow mountain and tree reflection in the lake",
+    "prompt_id": 340
+  },
+  {
+    "prompt": "a monarch butterfly hatching from its chrysalis",
+    "prompt_id": 341
+  },
+  {
+    "prompt": "A helicopter flies over the Arches National Park.",
+    "prompt_id": 342
+  },
+  {
+    "prompt": "A helicopter flies over the Grand Canyon.",
+    "prompt_id": 343
+  },
+  {
+    "prompt": "A helicopter flies over Yosemite.",
+    "prompt_id": 344
+  },
+  {
+    "prompt": "A sunken ship becomes the homeland of fish.",
+    "prompt_id": 345
+  },
+  {
+    "prompt": "a handpalm with leaves growing from it",
+    "prompt_id": 346
+  },
+  {
+    "prompt": "panda mad scientist mixing sparkling chemicals",
+    "prompt_id": 347
+  },
+  {
+    "prompt": "a dolphin in an astronaut suit on saturn",
+    "prompt_id": 348
+  },
+  {
+    "prompt": "a teddy bear on a skateboard in times square",
+    "prompt_id": 349
+  },
+  {
+    "prompt": "A Vietnam map showing Ha Long Bay",
+    "prompt_id": 350
+  },
+  {
+    "prompt": "a capybara sitting in a field",
+    "prompt_id": 351
+  },
+  {
+    "prompt": "a collection of glasses is sitting on a table",
+    "prompt_id": 352
+  },
+  {
+    "prompt": "A bare kitchen has wood cabinets and white appliances",
+    "prompt_id": 353
+  },
+  {
+    "prompt": "robots meditating in a vipassana retreat",
+    "prompt_id": 354
+  },
+  {
+    "prompt": "a white cat with black ears and markings",
+    "prompt_id": 355
+  },
+  {
+    "prompt": "a cat sitting on a stairway railing",
+    "prompt_id": 356
+  },
+  {
+    "prompt": "an ornate metal bench by a nature path",
+    "prompt_id": 357
+  },
+  {
+    "prompt": "a tall horse next to a red car",
+    "prompt_id": 358
+  },
+  {
+    "prompt": "an owl standing on a wire",
+    "prompt_id": 359
+  },
+  {
+    "prompt": "an owl standing on a telephone wire",
+    "prompt_id": 360
+  },
+  {
+    "prompt": "the skyline of New York City",
+    "prompt_id": 361
+  },
+  {
+    "prompt": "a steam locomotive speeding through a desert",
+    "prompt_id": 362
+  },
+  {
+    "prompt": "a submarine floating past a shark",
+    "prompt_id": 363
+  },
+  {
+    "prompt": "a whale breaching near a mountain",
+    "prompt_id": 364
+  },
+  {
+    "prompt": "a giraffe with an owl on its head",
+    "prompt_id": 365
+  },
+  {
+    "prompt": "an owl on top of an elephant's back",
+    "prompt_id": 366
+  },
+  {
+    "prompt": "an eagle swooping down to catch a mouse",
+    "prompt_id": 367
+  },
+  {
+    "prompt": "a giraffe eating the bark of a tree",
+    "prompt_id": 368
+  },
+  {
+    "prompt": "a cityscape at night with a full moon",
+    "prompt_id": 369
+  },
+  {
+    "prompt": "an owl gripping a squirrel in its talons",
+    "prompt_id": 370
+  },
+  {
+    "prompt": "a margarita next to a napkin",
+    "prompt_id": 371
+  },
+  {
+    "prompt": "a mountain and its reflection in a lake",
+    "prompt_id": 372
+  },
+  {
+    "prompt": "a bird and its reflection in a fountain",
+    "prompt_id": 373
+  },
+  {
+    "prompt": "The Statue of Liberty on a cloudy day",
+    "prompt_id": 374
+  },
+  {
+    "prompt": "The Statue of Liberty surrounded by helicopters",
+    "prompt_id": 375
+  },
+  {
+    "prompt": "the Eiffel Tower in winter",
+    "prompt_id": 376
+  },
+  {
+    "prompt": "a sunken ship at the bottom of the ocean",
+    "prompt_id": 377
+  },
+  {
+    "prompt": "a sunken submarine at the bottom of the ocean",
+    "prompt_id": 378
+  },
+  {
+    "prompt": "the Eiffel Tower in a desert",
+    "prompt_id": 379
+  },
+  {
+    "prompt": "Golden Gate bridge on the surface of Mars",
+    "prompt_id": 380
+  },
+  {
+    "prompt": "the city of London on Mars",
+    "prompt_id": 381
+  },
+  {
+    "prompt": "the city of London on the moon",
+    "prompt_id": 382
+  },
+  {
+    "prompt": "a stop sign with a large tree behind it",
+    "prompt_id": 383
+  },
+  {
+    "prompt": "a stop sign knocked over on a sidewalk",
+    "prompt_id": 384
+  },
+  {
+    "prompt": "teacups surounding a kettle",
+    "prompt_id": 385
+  },
+  {
+    "prompt": "a dragon breathing fire",
+    "prompt_id": 386
+  },
+  {
+    "prompt": "a dragon breathing fire on a castle",
+    "prompt_id": 387
+  },
+  {
+    "prompt": "a dragon breathing fire onto a knight",
+    "prompt_id": 388
+  },
+  {
+    "prompt": "a toy car in front of a teddy bear",
+    "prompt_id": 389
+  },
+  {
+    "prompt": "a large present with a red ribbon",
+    "prompt_id": 390
+  },
+  {
+    "prompt": "a half empty bottle of red wine",
+    "prompt_id": 391
+  },
+  {
+    "prompt": "milk pouring into a large glass",
+    "prompt_id": 392
+  },
+  {
+    "prompt": "milk pouring from a glass into a bowl",
+    "prompt_id": 393
+  },
+  {
+    "prompt": "matching socks with cute cats on them",
+    "prompt_id": 394
+  },
+  {
+    "prompt": "cash on a wooden table",
+    "prompt_id": 395
+  },
+  {
+    "prompt": "view of a clock tower on a cloudy day",
+    "prompt_id": 396
+  },
+  {
+    "prompt": "a roast turkey being taken out of the oven",
+    "prompt_id": 397
+  },
+  {
+    "prompt": "a Stegasaurus eating ferns",
+    "prompt_id": 398
+  },
+  {
+    "prompt": "a Triceratops charging down a hill",
+    "prompt_id": 399
+  },
+  {
+    "prompt": "a Styracosaurus displaying its horns",
+    "prompt_id": 400
+  },
+  {
+    "prompt": "a Diplodocus standing in a lake",
+    "prompt_id": 401
+  },
+  {
+    "prompt": "a tabby cat coming through a door",
+    "prompt_id": 402
+  },
+  {
+    "prompt": "a cat's tail showing under a couch",
+    "prompt_id": 403
+  },
+  {
+    "prompt": "a light shining on a giraffe in a street",
+    "prompt_id": 404
+  },
+  {
+    "prompt": "a barred owl peeking out from dense tree branches",
+    "prompt_id": 405
+  },
+  {
+    "prompt": "a snowy owl standing in a grassy field",
+    "prompt_id": 406
+  },
+  {
+    "prompt": "a stone path leading away from a fountain",
+    "prompt_id": 407
+  },
+  {
+    "prompt": "a wooden deck overlooking a mountain valley",
+    "prompt_id": 408
+  },
+  {
+    "prompt": "a mouse sitting next to a computer mouse",
+    "prompt_id": 409
+  },
+  {
+    "prompt": "a tiny dragon landing on a knight's shield",
+    "prompt_id": 410
+  },
+  {
+    "prompt": "an F1 race car in a Manhattan street",
+    "prompt_id": 411
+  },
+  {
+    "prompt": "a white pawn attacking a black bishop",
+    "prompt_id": 412
+  },
+  {
+    "prompt": "scraps of paper drifting in the wind",
+    "prompt_id": 413
+  },
+  {
+    "prompt": "the silhouette of an elephant on the full moon",
+    "prompt_id": 414
+  },
+  {
+    "prompt": "a can of Spam on an elegant plate",
+    "prompt_id": 415
+  },
+  {
+    "prompt": "a dolphin jumping over a rowboat",
+    "prompt_id": 416
+  },
+  {
+    "prompt": "the Taj Mahal at sunrise",
+    "prompt_id": 417
+  },
+  {
+    "prompt": "a small garden with an apple tree behind it",
+    "prompt_id": 418
+  },
+  {
+    "prompt": "a motorcycle parked in an ornate bank lobby",
+    "prompt_id": 419
+  },
+  {
+    "prompt": "a hot air balloon landing in a corn field",
+    "prompt_id": 420
+  },
+  {
+    "prompt": "a beach with a cruise ship passing by",
+    "prompt_id": 421
+  },
+  {
+    "prompt": "a group of penguins in a snowstorm",
+    "prompt_id": 422
+  },
+  {
+    "prompt": "a Scottish castle next to a loch",
+    "prompt_id": 423
+  },
+  {
+    "prompt": "a full moon peeking through clouds at night",
+    "prompt_id": 424
+  },
+  {
+    "prompt": "a crescent moon viewed between tree branches at night",
+    "prompt_id": 425
+  },
+  {
+    "prompt": "a full moon rising above a mountain at night",
+    "prompt_id": 426
+  },
+  {
+    "prompt": "a tornado passing over a corn field",
+    "prompt_id": 427
+  },
+  {
+    "prompt": "a tidal wave approaching a coastal road",
+    "prompt_id": 428
+  },
+  {
+    "prompt": "an antique car by a beach",
+    "prompt_id": 429
+  },
+  {
+    "prompt": "a water tower next to a deserted road",
+    "prompt_id": 430
+  },
+  {
+    "prompt": "a small airplane flying over rolling hills",
+    "prompt_id": 431
+  },
+  {
+    "prompt": "a car with tires that have yellow rims",
+    "prompt_id": 432
+  },
+  {
+    "prompt": "a turtle upside down and spinning on its shell",
+    "prompt_id": 433
+  },
+  {
+    "prompt": "an octopus fleeing and squirting black ink",
+    "prompt_id": 434
+  },
+  {
+    "prompt": "a moose by a mountain stream",
+    "prompt_id": 435
+  },
+  {
+    "prompt": "a kachina doll standing in sand",
+    "prompt_id": 436
+  },
+  {
+    "prompt": "a helicopter hovering over Times Square",
+    "prompt_id": 437
+  },
+  {
+    "prompt": "a traffic jam at Times Square",
+    "prompt_id": 438
+  },
+  {
+    "prompt": "a prop plane flying low over the Great Wall",
+    "prompt_id": 439
+  },
+  {
+    "prompt": "a view of the Kremlin on a sunny day",
+    "prompt_id": 440
+  },
+  {
+    "prompt": "a view of the Kremlin with snow falling",
+    "prompt_id": 441
+  },
+  {
+    "prompt": "a palm tree forest in front of the Kremlin",
+    "prompt_id": 442
+  },
+  {
+    "prompt": "a rusty red pickup truck with white wheel rims",
+    "prompt_id": 443
+  },
+  {
+    "prompt": "a pickup truck going up a mountain switchback",
+    "prompt_id": 444
+  },
+  {
+    "prompt": "a pickup truck at the beach at sunrise",
+    "prompt_id": 445
+  },
+  {
+    "prompt": "a pickup truck under street lights at night",
+    "prompt_id": 446
+  },
+  {
+    "prompt": "a pair of shoes on a tennis racquet",
+    "prompt_id": 447
+  },
+  {
+    "prompt": "a shoe with a sock draped over it",
+    "prompt_id": 448
+  },
+  {
+    "prompt": "a plant at the bottom of a shallow stream",
+    "prompt_id": 449
+  },
+  {
+    "prompt": "a cow eating a green leafy plant",
+    "prompt_id": 450
+  },
+  {
+    "prompt": "a horse chewing a large blue flower",
+    "prompt_id": 451
+  },
+  {
+    "prompt": "a pair of headphones on a pumpkin",
+    "prompt_id": 452
+  },
+  {
+    "prompt": "a pair of headphones on a guitar",
+    "prompt_id": 453
+  },
+  {
+    "prompt": "a car's wheel crushing a pair of headphones",
+    "prompt_id": 454
+  },
+  {
+    "prompt": "a chemtrail passing between two clouds",
+    "prompt_id": 455
+  },
+  {
+    "prompt": "a ceiling fan with an ornate light fixture",
+    "prompt_id": 456
+  },
+  {
+    "prompt": "red and yellow balloons hanging from a ceiling fan",
+    "prompt_id": 457
+  },
+  {
+    "prompt": "The Alamo with bright white clouds above it",
+    "prompt_id": 458
+  },
+  {
+    "prompt": "a flock of geese in front of The Alamo",
+    "prompt_id": 459
+  },
+  {
+    "prompt": "an old-fashioned windmill surrounded by flowers",
+    "prompt_id": 460
+  },
+  {
+    "prompt": "a windmill farm next to a country road",
+    "prompt_id": 461
+  },
+  {
+    "prompt": "a Harley-Davidson motorcycle with a flame decal",
+    "prompt_id": 462
+  },
+  {
+    "prompt": "a motorcycle in front of an rhinoceros",
+    "prompt_id": 463
+  },
+  {
+    "prompt": "a chopper decorated with the Stars and Stripes",
+    "prompt_id": 464
+  },
+  {
+    "prompt": "snow covering the Great Pyramid",
+    "prompt_id": 465
+  },
+  {
+    "prompt": "the sun setting behind the Parthenon",
+    "prompt_id": 466
+  },
+  {
+    "prompt": "fireworks above the Parthenon",
+    "prompt_id": 467
+  },
+  {
+    "prompt": "the Millennium Wheel in a snow storm",
+    "prompt_id": 468
+  },
+  {
+    "prompt": "a volcano exploding next to a marina",
+    "prompt_id": 469
+  },
+  {
+    "prompt": "a team playing baseball at the beach",
+    "prompt_id": 470
+  },
+  {
+    "prompt": "a man standing on a street corner",
+    "prompt_id": 471
+  },
+  {
+    "prompt": "a crowd of people watching fireworks by a park",
+    "prompt_id": 472
+  },
+  {
+    "prompt": "a crowd of people watching fireworks by a city",
+    "prompt_id": 473
+  },
+  {
+    "prompt": "a woman with long black hair and dark skin",
+    "prompt_id": 474
+  },
+  {
+    "prompt": "a man wearing sunglasses and business suit",
+    "prompt_id": 475
+  },
+  {
+    "prompt": "a girl with long curly blonde hair and sunglasses",
+    "prompt_id": 476
+  },
+  {
+    "prompt": "Gandalf saying you shall not pass",
+    "prompt_id": 477
+  },
+  {
+    "prompt": "a mosquito biting a man",
+    "prompt_id": 478
+  },
+  {
+    "prompt": "a witch riding a broom",
+    "prompt_id": 479
+  },
+  {
+    "prompt": "a knight holding a long sword",
+    "prompt_id": 480
+  },
+  {
+    "prompt": "a cricket team walking on to the pitch",
+    "prompt_id": 481
+  },
+  {
+    "prompt": "a cricketer standing next to a wicket",
+    "prompt_id": 482
+  },
+  {
+    "prompt": "an elder politician giving a campaign speech",
+    "prompt_id": 483
+  },
+  {
+    "prompt": "a young girl playing piano",
+    "prompt_id": 484
+  },
+  {
+    "prompt": "a girl getting a kite out of a tree",
+    "prompt_id": 485
+  },
+  {
+    "prompt": "a politician giving a speech at a podium",
+    "prompt_id": 486
+  },
+  {
+    "prompt": "a politician speaking to a large crowd",
+    "prompt_id": 487
+  },
+  {
+    "prompt": "the Beatles crossing Abbey road",
+    "prompt_id": 488
+  },
+  {
+    "prompt": "a girl riding an ostrich",
+    "prompt_id": 489
+  },
+  {
+    "prompt": "a ballet dancer next to a waterfall",
+    "prompt_id": 490
+  },
+  {
+    "prompt": "a judge delivering a sentence to the defendant",
+    "prompt_id": 491
+  },
+  {
+    "prompt": "people packed on a double-decker bus",
+    "prompt_id": 492
+  },
+  {
+    "prompt": "a man riding a camel on the beach",
+    "prompt_id": 493
+  },
+  {
+    "prompt": "a woman singing into a microphone",
+    "prompt_id": 494
+  },
+  {
+    "prompt": "a child unraveling a roll of toilet paper",
+    "prompt_id": 495
+  },
+  {
+    "prompt": "a girl examining an ammonite fossil",
+    "prompt_id": 496
+  },
+  {
+    "prompt": "a fairy flying over a girl's shoulder",
+    "prompt_id": 497
+  },
+  {
+    "prompt": "Tibetan priests ringing a bell",
+    "prompt_id": 498
+  },
+  {
+    "prompt": "a man sleeping in a hammock",
+    "prompt_id": 499
+  },
+  {
+    "prompt": "a library filled with kids reading books",
+    "prompt_id": 500
+  },
+  {
+    "prompt": "a scientist accepting an award",
+    "prompt_id": 501
+  },
+  {
+    "prompt": "A horse sitting on an astronaut's shoulders.",
+    "prompt_id": 502
+  },
+  {
+    "prompt": "A giant cobra snake made from corn",
+    "prompt_id": 503
+  },
+  {
+    "prompt": "A giant cobra snake made from sushi",
+    "prompt_id": 504
+  },
+  {
+    "prompt": "A giant cobra snake made from pancakes",
+    "prompt_id": 505
+  },
+  {
+    "prompt": "A giant cobra snake made from salad",
+    "prompt_id": 506
+  },
+  {
+    "prompt": "A city in 4-dimensional space-time",
+    "prompt_id": 507
+  },
+  {
+    "prompt": "Dogs playing poker",
+    "prompt_id": 508
+  },
+  {
+    "prompt": "Dogs sitting around a poker table",
+    "prompt_id": 509
+  },
+  {
+    "prompt": "Salvador Dalí with a robotic half face",
+    "prompt_id": 510
+  },
+  {
+    "prompt": "an espresso machine that makes coffee from human souls",
+    "prompt_id": 511
+  },
+  {
+    "prompt": "panda mad scientist",
+    "prompt_id": 512
+  },
+  {
+    "prompt": "a snail made of harp",
+    "prompt_id": 513
+  },
+  {
+    "prompt": "a giraffe made of turtle",
+    "prompt_id": 514
+  },
+  {
+    "prompt": "a giraffe imitating a turtle",
+    "prompt_id": 515
+  },
+  {
+    "prompt": "a cube made of porcupine",
+    "prompt_id": 516
+  },
+  {
+    "prompt": "a watermelon chair",
+    "prompt_id": 517
+  },
+  {
+    "prompt": "a spaceship that looks like the Sydney Opera House",
+    "prompt_id": 518
+  },
+  {
+    "prompt": "a hedgehog using a calculator",
+    "prompt_id": 519
+  },
+  {
+    "prompt": "a cat playing checkers",
+    "prompt_id": 520
+  },
+  {
+    "prompt": "a hamster dragon",
+    "prompt_id": 521
+  },
+  {
+    "prompt": "a futuristic city",
+    "prompt_id": 522
+  },
+  {
+    "prompt": "corgi pizza",
+    "prompt_id": 523
+  },
+  {
+    "prompt": "a clock with no hands",
+    "prompt_id": 524
+  },
+  {
+    "prompt": "a baby daikon radish in a tutu",
+    "prompt_id": 525
+  },
+  {
+    "prompt": "a chimpanzee sitting on a wooden bench",
+    "prompt_id": 526
+  },
+  {
+    "prompt": "a smiling banana wearing a bandana",
+    "prompt_id": 527
+  },
+  {
+    "prompt": "an orange wearing a cowboy hat",
+    "prompt_id": 528
+  },
+  {
+    "prompt": "a cat drinking a pint of beer",
+    "prompt_id": 529
+  },
+  {
+    "prompt": "a train going to the moon",
+    "prompt_id": 530
+  },
+  {
+    "prompt": "a subway train in an empty station",
+    "prompt_id": 531
+  },
+  {
+    "prompt": "a cow jumping over the moon",
+    "prompt_id": 532
+  },
+  {
+    "prompt": "a cat sitting in a car seat",
+    "prompt_id": 533
+  },
+  {
+    "prompt": "a friendly car",
+    "prompt_id": 534
+  },
+  {
+    "prompt": "two cats doing research",
+    "prompt_id": 535
+  },
+  {
+    "prompt": "a red train is coming down the beach",
+    "prompt_id": 536
+  },
+  {
+    "prompt": "a small kitchen with a white goat in it",
+    "prompt_id": 537
+  },
+  {
+    "prompt": "a giraffe with a funny face",
+    "prompt_id": 538
+  },
+  {
+    "prompt": "a cat standing on a horse",
+    "prompt_id": 539
+  },
+  {
+    "prompt": "a horse standing on an elephant",
+    "prompt_id": 540
+  },
+  {
+    "prompt": "a cat chasing a horse",
+    "prompt_id": 541
+  },
+  {
+    "prompt": "a horse chasing a cat",
+    "prompt_id": 542
+  },
+  {
+    "prompt": "a cat with four eyes",
+    "prompt_id": 543
+  },
+  {
+    "prompt": "a sword slicing through a loaf of bread",
+    "prompt_id": 544
+  },
+  {
+    "prompt": "a sword slicing through pouring milk",
+    "prompt_id": 545
+  },
+  {
+    "prompt": "a coffee mug floating in the sky",
+    "prompt_id": 546
+  },
+  {
+    "prompt": "a pig face with an eye patch",
+    "prompt_id": 547
+  },
+  {
+    "prompt": "a stork playing a violin",
+    "prompt_id": 548
+  },
+  {
+    "prompt": "a TV on a horse",
+    "prompt_id": 549
+  },
+  {
+    "prompt": "a Christmas tree on a toy train",
+    "prompt_id": 550
+  },
+  {
+    "prompt": "a zebra with blue stripes",
+    "prompt_id": 551
+  },
+  {
+    "prompt": "a zebra with alternating blue and red stripes",
+    "prompt_id": 552
+  },
+  {
+    "prompt": "a yellow tiger with blue stripes",
+    "prompt_id": 553
+  },
+  {
+    "prompt": "a tiger wearing a tuxedo",
+    "prompt_id": 554
+  },
+  {
+    "prompt": "the statue of Liberty next to the Washington Monument",
+    "prompt_id": 555
+  },
+  {
+    "prompt": "a koi fish flying in the sky",
+    "prompt_id": 556
+  },
+  {
+    "prompt": "a pineapple surfing on a wave",
+    "prompt_id": 557
+  },
+  {
+    "prompt": "a toaster shaking hands with a microwave",
+    "prompt_id": 558
+  },
+  {
+    "prompt": "blue apples on a tree with yellow leaves",
+    "prompt_id": 559
+  },
+  {
+    "prompt": "a pirate ship landing on the moon",
+    "prompt_id": 560
+  },
+  {
+    "prompt": "a turkey walking in the kitchen",
+    "prompt_id": 561
+  },
+  {
+    "prompt": "a horned owl with a graduation cap and diploma",
+    "prompt_id": 562
+  },
+  {
+    "prompt": "a panda bear with aviator glasses on its head",
+    "prompt_id": 563
+  },
+  {
+    "prompt": "a nerdy bear wearing glasses and a bowtie",
+    "prompt_id": 564
+  },
+  {
+    "prompt": "a volcano spewing fish into the sky",
+    "prompt_id": 565
+  },
+  {
+    "prompt": "a tree with leaves that look like purple balloons",
+    "prompt_id": 566
+  },
+  {
+    "prompt": "a pony with a shooting star on its flank",
+    "prompt_id": 567
+  },
+  {
+    "prompt": "a half moon in the day sky",
+    "prompt_id": 568
+  },
+  {
+    "prompt": "the moon with a smiling face",
+    "prompt_id": 569
+  },
+  {
+    "prompt": "a penguin that is a car",
+    "prompt_id": 570
+  },
+  {
+    "prompt": "a bicycle wheel that is made of red yarn",
+    "prompt_id": 571
+  },
+  {
+    "prompt": "a rabbit sitting on a turtle's back",
+    "prompt_id": 572
+  },
+  {
+    "prompt": "an elephant walking on the Great Wall",
+    "prompt_id": 573
+  },
+  {
+    "prompt": "a spaceship landing on the Great Wall",
+    "prompt_id": 574
+  },
+  {
+    "prompt": "an ocean at the base of the Great Wall",
+    "prompt_id": 575
+  },
+  {
+    "prompt": "a pickup truck missing its wheels",
+    "prompt_id": 576
+  },
+  {
+    "prompt": "a piano tumbling down a hill",
+    "prompt_id": 577
+  },
+  {
+    "prompt": "a tuba made of flower petals",
+    "prompt_id": 578
+  },
+  {
+    "prompt": "a spaceship hovering over The Alamo",
+    "prompt_id": 579
+  },
+  {
+    "prompt": "a motorcycle hanging on a garage wall",
+    "prompt_id": 580
+  },
+  {
+    "prompt": "a dragon perched on top of the Great Pyramid",
+    "prompt_id": 581
+  },
+  {
+    "prompt": "a child and a penguin sitting on the moon",
+    "prompt_id": 582
+  },
+  {
+    "prompt": "Superman shaking hands with Spiderman",
+    "prompt_id": 583
+  },
+  {
+    "prompt": "a man with puppet that looks like a king",
+    "prompt_id": 584
+  },
+  {
+    "prompt": "a person with arms like a tree branch",
+    "prompt_id": 585
+  },
+  {
+    "prompt": "a man riding a cat",
+    "prompt_id": 586
+  },
+  {
+    "prompt": "a triangle with a smiling face",
+    "prompt_id": 587
+  },
+  {
+    "prompt": "a square with an angry face",
+    "prompt_id": 588
+  },
+  {
+    "prompt": "a concert without any fans",
+    "prompt_id": 589
+  },
+  {
+    "prompt": "a summer tree without any leaves",
+    "prompt_id": 590
+  },
+  {
+    "prompt": "a classroom without any students",
+    "prompt_id": 591
+  },
+  {
+    "prompt": "a bookshelf without any books on it",
+    "prompt_id": 592
+  },
+  {
+    "prompt": "a closet without clothes",
+    "prompt_id": 593
+  },
+  {
+    "prompt": "A bird gives an apple to a squirrel",
+    "prompt_id": 594
+  },
+  {
+    "prompt": "A squirrel gives an apple to a bird",
+    "prompt_id": 595
+  },
+  {
+    "prompt": "A dog gives an apple to a squirrel",
+    "prompt_id": 596
+  },
+  {
+    "prompt": "The coach smiled at the player tossed the frisbee",
+    "prompt_id": 597
+  },
+  {
+    "prompt": "Four deer surrounding a moose.",
+    "prompt_id": 598
+  },
+  {
+    "prompt": "supercalifragilisticexpialidocious",
+    "prompt_id": 599
+  },
+  {
+    "prompt": "Incomprehensibilities",
+    "prompt_id": 600
+  },
+  {
+    "prompt": "The horse raced past the barn fell",
+    "prompt_id": 601
+  },
+  {
+    "prompt": "The old man the boat.",
+    "prompt_id": 602
+  },
+  {
+    "prompt": "We painted the wall with cracks.",
+    "prompt_id": 603
+  },
+  {
+    "prompt": "The raft floated down the river sank.",
+    "prompt_id": 604
+  },
+  {
+    "prompt": "The man who whistles tunes pianos.",
+    "prompt_id": 605
+  },
+  {
+    "prompt": "One morning I chased an elephant in my pajamas",
+    "prompt_id": 606
+  },
+  {
+    "prompt": "a bench without any cats on it",
+    "prompt_id": 607
+  },
+  {
+    "prompt": "a laptop no letters on its keyboard",
+    "prompt_id": 608
+  },
+  {
+    "prompt": "a subway train with no cows in it",
+    "prompt_id": 609
+  },
+  {
+    "prompt": "a kitchen without a refrigerator",
+    "prompt_id": 610
+  },
+  {
+    "prompt": "several lily pads without frogs",
+    "prompt_id": 611
+  },
+  {
+    "prompt": "a street without vehicles",
+    "prompt_id": 612
+  },
+  {
+    "prompt": "a house with no windows",
+    "prompt_id": 613
+  },
+  {
+    "prompt": "a car with no windows",
+    "prompt_id": 614
+  },
+  {
+    "prompt": "a fish without eyes",
+    "prompt_id": 615
+  },
+  {
+    "prompt": "a city intersection without cars",
+    "prompt_id": 616
+  },
+  {
+    "prompt": "a horse without a rider",
+    "prompt_id": 617
+  },
+  {
+    "prompt": "a banana without its peel",
+    "prompt_id": 618
+  },
+  {
+    "prompt": "a bat landing on a baseball bat",
+    "prompt_id": 619
+  },
+  {
+    "prompt": "a bird landing on a bat",
+    "prompt_id": 620
+  },
+  {
+    "prompt": "a rowboat without paddles",
+    "prompt_id": 621
+  },
+  {
+    "prompt": "a harp without any strings",
+    "prompt_id": 622
+  },
+  {
+    "prompt": "a marina without any boats in it",
+    "prompt_id": 623
+  },
+  {
+    "prompt": "The frog found itself in the newspaper",
+    "prompt_id": 624
+  },
+  {
+    "prompt": "A cat dreaming about becoming a tiger",
+    "prompt_id": 625
+  },
+  {
+    "prompt": "Saturn rises on the horizon.",
+    "prompt_id": 626
+  },
+  {
+    "prompt": "Mars rises on the horizon.",
+    "prompt_id": 627
+  },
+  {
+    "prompt": "Jupiter rises on the horizon.",
+    "prompt_id": 628
+  },
+  {
+    "prompt": "a corgi’s head",
+    "prompt_id": 629
+  },
+  {
+    "prompt": "An aerial view of Ha Long Bay",
+    "prompt_id": 630
+  },
+  {
+    "prompt": "a macro photograph of brain coral",
+    "prompt_id": 631
+  },
+  {
+    "prompt": "a cross-section view of a walnut",
+    "prompt_id": 632
+  },
+  {
+    "prompt": "an overhead view of the Empire State Building",
+    "prompt_id": 633
+  },
+  {
+    "prompt": "a pig face",
+    "prompt_id": 634
+  },
+  {
+    "prompt": "a close-up of a margarita",
+    "prompt_id": 635
+  },
+  {
+    "prompt": "the back of a violin",
+    "prompt_id": 636
+  },
+  {
+    "prompt": "view of a clock tower from above",
+    "prompt_id": 637
+  },
+  {
+    "prompt": "view of a clock tower from below",
+    "prompt_id": 638
+  },
+  {
+    "prompt": "an aerial photo of a carnival at night",
+    "prompt_id": 639
+  },
+  {
+    "prompt": "an aerial photo of a baseball stadium",
+    "prompt_id": 640
+  },
+  {
+    "prompt": "an ostrich's face",
+    "prompt_id": 641
+  },
+  {
+    "prompt": "a close-up of an ostrich's face",
+    "prompt_id": 642
+  },
+  {
+    "prompt": "the eyes of an owl",
+    "prompt_id": 643
+  },
+  {
+    "prompt": "a view of the Earth from the moon",
+    "prompt_id": 644
+  },
+  {
+    "prompt": "an image of the moons of the planet Jupiter",
+    "prompt_id": 645
+  },
+  {
+    "prompt": "the eye of the planet Jupiter",
+    "prompt_id": 646
+  },
+  {
+    "prompt": "an aerial view of the Great Wall",
+    "prompt_id": 647
+  },
+  {
+    "prompt": "view of the Great Wall from its base",
+    "prompt_id": 648
+  },
+  {
+    "prompt": "an aerial view of the Great Pyramid",
+    "prompt_id": 649
+  },
+  {
+    "prompt": "two people facing each other",
+    "prompt_id": 650
+  },
+  {
+    "prompt": "two people facing the viewer",
+    "prompt_id": 651
+  },
+  {
+    "prompt": "A green heart with shadow",
+    "prompt_id": 652
+  },
+  {
+    "prompt": "a red cube on top of a blue cube",
+    "prompt_id": 653
+  },
+  {
+    "prompt": "a red circle on top of a blue square",
+    "prompt_id": 654
+  },
+  {
+    "prompt": "a red box next to a blue box",
+    "prompt_id": 655
+  },
+  {
+    "prompt": "a red sphere on top of a yellow box",
+    "prompt_id": 656
+  },
+  {
+    "prompt": "several red lego blocks and one blue one",
+    "prompt_id": 657
+  },
+  {
+    "prompt": "three small yellow boxes on a large blue box",
+    "prompt_id": 658
+  },
+  {
+    "prompt": "a black background with a large yellow circle",
+    "prompt_id": 659
+  },
+  {
+    "prompt": "a white background with a large blue circle",
+    "prompt_id": 660
+  },
+  {
+    "prompt": "a black background with a large yellow square",
+    "prompt_id": 661
+  },
+  {
+    "prompt": "a white background with a large blue square",
+    "prompt_id": 662
+  },
+  {
+    "prompt": "a green pyramid in front of a blue box",
+    "prompt_id": 663
+  },
+  {
+    "prompt": "a large yellow sphere behind a small purple pyramid",
+    "prompt_id": 664
+  },
+  {
+    "prompt": "ten red apples",
+    "prompt_id": 665
+  },
+  {
+    "prompt": "Four dragons surrounding a dinosaur",
+    "prompt_id": 666
+  },
+  {
+    "prompt": "Four cats surrounding a dog",
+    "prompt_id": 667
+  },
+  {
+    "prompt": "the hands of a single person holding a basketball",
+    "prompt_id": 668
+  },
+  {
+    "prompt": "several people putting their hands on a basketball",
+    "prompt_id": 669
+  },
+  {
+    "prompt": "two baseballs next to three tennis balls",
+    "prompt_id": 670
+  },
+  {
+    "prompt": "7 dogs sitting around a poker table",
+    "prompt_id": 671
+  },
+  {
+    "prompt": "300 movie titles",
+    "prompt_id": 672
+  },
+  {
+    "prompt": "a collection of glasses",
+    "prompt_id": 673
+  },
+  {
+    "prompt": "two chairs",
+    "prompt_id": 674
+  },
+  {
+    "prompt": "three chairs",
+    "prompt_id": 675
+  },
+  {
+    "prompt": "five chairs",
+    "prompt_id": 676
+  },
+  {
+    "prompt": "two wooden chairs and three metal chairs",
+    "prompt_id": 677
+  },
+  {
+    "prompt": "three black cats standing next to two orange cats",
+    "prompt_id": 678
+  },
+  {
+    "prompt": "a bunch of laptops piled on a sofa",
+    "prompt_id": 679
+  },
+  {
+    "prompt": "four owls standing on a telephone wire",
+    "prompt_id": 680
+  },
+  {
+    "prompt": "an owl family",
+    "prompt_id": 681
+  },
+  {
+    "prompt": "a comic about an owl family in the forest",
+    "prompt_id": 682
+  },
+  {
+    "prompt": "two cats",
+    "prompt_id": 683
+  },
+  {
+    "prompt": "a comic about two cats doing research",
+    "prompt_id": 684
+  },
+  {
+    "prompt": "three elephants standing on top of each other",
+    "prompt_id": 685
+  },
+  {
+    "prompt": "two red boxes",
+    "prompt_id": 686
+  },
+  {
+    "prompt": "two violins standing up",
+    "prompt_id": 687
+  },
+  {
+    "prompt": "three violins lying on the floor",
+    "prompt_id": 688
+  },
+  {
+    "prompt": "three red lego blocks",
+    "prompt_id": 689
+  },
+  {
+    "prompt": "four teacups surounding a kettle",
+    "prompt_id": 690
+  },
+  {
+    "prompt": "three small yellow boxes",
+    "prompt_id": 691
+  },
+  {
+    "prompt": "bottles",
+    "prompt_id": 692
+  },
+  {
+    "prompt": "two frosted glass bottles",
+    "prompt_id": 693
+  },
+  {
+    "prompt": "five frosted glass bottles",
+    "prompt_id": 694
+  },
+  {
+    "prompt": "three green glass bottles",
+    "prompt_id": 695
+  },
+  {
+    "prompt": "four green glass bottles",
+    "prompt_id": 696
+  },
+  {
+    "prompt": "two wine bottles",
+    "prompt_id": 697
+  },
+  {
+    "prompt": "three wine bottles",
+    "prompt_id": 698
+  },
+  {
+    "prompt": "four wine bottles",
+    "prompt_id": 699
+  },
+  {
+    "prompt": "ten wine bottles",
+    "prompt_id": 700
+  },
+  {
+    "prompt": "two wine bottles and three beer cans",
+    "prompt_id": 701
+  },
+  {
+    "prompt": "a pile of cash on a wooden table",
+    "prompt_id": 702
+  },
+  {
+    "prompt": "a pile of cash on a stone floor",
+    "prompt_id": 703
+  },
+  {
+    "prompt": "two red balls",
+    "prompt_id": 704
+  },
+  {
+    "prompt": "two red balls on a table",
+    "prompt_id": 705
+  },
+  {
+    "prompt": "five red balls",
+    "prompt_id": 706
+  },
+  {
+    "prompt": "five red balls on a table",
+    "prompt_id": 707
+  },
+  {
+    "prompt": "an antique chest with three drawers",
+    "prompt_id": 708
+  },
+  {
+    "prompt": "a pile of toy cars",
+    "prompt_id": 709
+  },
+  {
+    "prompt": "a full bookshelf with three shelves",
+    "prompt_id": 710
+  },
+  {
+    "prompt": "a bookshelf with ten books stacked vertically",
+    "prompt_id": 711
+  },
+  {
+    "prompt": "three airplanes parked in a row at a terminal",
+    "prompt_id": 712
+  },
+  {
+    "prompt": "three green peppers",
+    "prompt_id": 713
+  },
+  {
+    "prompt": "Times Square with thousands of dogs running around",
+    "prompt_id": 714
+  },
+  {
+    "prompt": "three pickup trucks piled on top of each other",
+    "prompt_id": 715
+  },
+  {
+    "prompt": "a pair of brown suede shoes",
+    "prompt_id": 716
+  },
+  {
+    "prompt": "two red flowers and three white flowers",
+    "prompt_id": 717
+  },
+  {
+    "prompt": "two parallel chemtrails in blue sky",
+    "prompt_id": 718
+  },
+  {
+    "prompt": "two chemtrails forming an X in blue sky",
+    "prompt_id": 719
+  },
+  {
+    "prompt": "a tennis court with three yellow cones on it",
+    "prompt_id": 720
+  },
+  {
+    "prompt": "a ceiling fan with four white blades",
+    "prompt_id": 721
+  },
+  {
+    "prompt": "a ceiling fan with five brown blades",
+    "prompt_id": 722
+  },
+  {
+    "prompt": "two pianos next to each other",
+    "prompt_id": 723
+  },
+  {
+    "prompt": "a series of musical notes",
+    "prompt_id": 724
+  },
+  {
+    "prompt": "a field with ten massive modern windmills",
+    "prompt_id": 725
+  },
+  {
+    "prompt": "two motorcycles facing each other",
+    "prompt_id": 726
+  },
+  {
+    "prompt": "children",
+    "prompt_id": 727
+  },
+  {
+    "prompt": "one child on a couch",
+    "prompt_id": 728
+  },
+  {
+    "prompt": "three children on a couch",
+    "prompt_id": 729
+  },
+  {
+    "prompt": "ten children on a couch",
+    "prompt_id": 730
+  },
+  {
+    "prompt": "a crowd of people watching fireworks",
+    "prompt_id": 731
+  },
+  {
+    "prompt": "a parade with cars and people waving",
+    "prompt_id": 732
+  },
+  {
+    "prompt": "a family of four posing at the Grand Canyon",
+    "prompt_id": 733
+  },
+  {
+    "prompt": "a family of four posing at Mount Rushmore",
+    "prompt_id": 734
+  },
+  {
+    "prompt": "a family of four posing on the moon",
+    "prompt_id": 735
+  },
+  {
+    "prompt": "a jungle gym with three kids on it",
+    "prompt_id": 736
+  },
+  {
+    "prompt": "four people riding in a convertible car",
+    "prompt_id": 737
+  },
+  {
+    "prompt": "two runners crossing the finish line together",
+    "prompt_id": 738
+  },
+  {
+    "prompt": "two sets of identical twins",
+    "prompt_id": 739
+  },
+  {
+    "prompt": "Siberian husky playing the piano.",
+    "prompt_id": 740
+  },
+  {
+    "prompt": "A van parked on grass",
+    "prompt_id": 741
+  },
+  {
+    "prompt": "a smiling sloth",
+    "prompt_id": 742
+  },
+  {
+    "prompt": "A shiny VW van parked on grass.",
+    "prompt_id": 743
+  },
+  {
+    "prompt": "a dolphin in an astronaut suit",
+    "prompt_id": 744
+  },
+  {
+    "prompt": "a teddy bear on a skateboard",
+    "prompt_id": 745
+  },
+  {
+    "prompt": "A tiger is playing football",
+    "prompt_id": 746
+  },
+  {
+    "prompt": "A Google map highlighting Vietnam",
+    "prompt_id": 747
+  },
+  {
+    "prompt": "A bowl of Chicken Pho",
+    "prompt_id": 748
+  },
+  {
+    "prompt": "A bowl of Beef Pho",
+    "prompt_id": 749
+  },
+  {
+    "prompt": "a lovestruck cup of boba",
+    "prompt_id": 750
+  },
+  {
+    "prompt": "a horse in a field of flowers",
+    "prompt_id": 751
+  },
+  {
+    "prompt": "A green heart",
+    "prompt_id": 752
+  },
+  {
+    "prompt": "The sunset on the beach is wonderful",
+    "prompt_id": 753
+  },
+  {
+    "prompt": "A red bus is driving on the road",
+    "prompt_id": 754
+  },
+  {
+    "prompt": "A picture of a very tall stop sign",
+    "prompt_id": 755
+  },
+  {
+    "prompt": "A movie poster of mountain and sea",
+    "prompt_id": 756
+  },
+  {
+    "prompt": "A giraffe walking through a green grass covered field",
+    "prompt_id": 757
+  },
+  {
+    "prompt": "A green train is coming down the tracks",
+    "prompt_id": 758
+  },
+  {
+    "prompt": "A living area with a television and a table",
+    "prompt_id": 759
+  },
+  {
+    "prompt": "A red hydrant on the grass",
+    "prompt_id": 760
+  },
+  {
+    "prompt": "Sunset over the sea",
+    "prompt_id": 761
+  },
+  {
+    "prompt": "A small house in the wilderness",
+    "prompt_id": 762
+  },
+  {
+    "prompt": "Sunset over the skyline of a city",
+    "prompt_id": 763
+  },
+  {
+    "prompt": "A heart made of chocolate",
+    "prompt_id": 764
+  },
+  {
+    "prompt": "A heart made of water",
+    "prompt_id": 765
+  },
+  {
+    "prompt": "A heart made of wood",
+    "prompt_id": 766
+  },
+  {
+    "prompt": "A heart made of cookie",
+    "prompt_id": 767
+  },
+  {
+    "prompt": "a white country home",
+    "prompt_id": 768
+  },
+  {
+    "prompt": "robots meditating",
+    "prompt_id": 769
+  },
+  {
+    "prompt": "a robot kicking a soccer ball",
+    "prompt_id": 770
+  },
+  {
+    "prompt": "a cat looking out of a window",
+    "prompt_id": 771
+  },
+  {
+    "prompt": "a cat coming through a cat door",
+    "prompt_id": 772
+  },
+  {
+    "prompt": "a cat jumping in the air",
+    "prompt_id": 773
+  },
+  {
+    "prompt": "a sunset behind the grand canyon",
+    "prompt_id": 774
+  },
+  {
+    "prompt": "a boat in the canals of venice",
+    "prompt_id": 775
+  },
+  {
+    "prompt": "a large white yacht",
+    "prompt_id": 776
+  },
+  {
+    "prompt": "a panda eating bamboo",
+    "prompt_id": 777
+  },
+  {
+    "prompt": "a fog rolling into new york",
+    "prompt_id": 778
+  },
+  {
+    "prompt": "a green clock",
+    "prompt_id": 779
+  },
+  {
+    "prompt": "a photo of the food of china",
+    "prompt_id": 780
+  },
+  {
+    "prompt": "a baby daikon radish",
+    "prompt_id": 781
+  },
+  {
+    "prompt": "a very fancy French restaurant",
+    "prompt_id": 782
+  },
+  {
+    "prompt": "a tiger standing by some flowers",
+    "prompt_id": 783
+  },
+  {
+    "prompt": "a bench next to a flower pot",
+    "prompt_id": 784
+  },
+  {
+    "prompt": "a bird standing on a stick",
+    "prompt_id": 785
+  },
+  {
+    "prompt": "a blue sports car on the road",
+    "prompt_id": 786
+  },
+  {
+    "prompt": "a red sports car on the road",
+    "prompt_id": 787
+  },
+  {
+    "prompt": "a soccer ball flying over a car",
+    "prompt_id": 788
+  },
+  {
+    "prompt": "the finale of a fireworks display",
+    "prompt_id": 789
+  },
+  {
+    "prompt": "beautiful fireworks in the sky",
+    "prompt_id": 790
+  },
+  {
+    "prompt": "a subway train",
+    "prompt_id": 791
+  },
+  {
+    "prompt": "a subway train coming out of a tunnel",
+    "prompt_id": 792
+  },
+  {
+    "prompt": "orange jello",
+    "prompt_id": 793
+  },
+  {
+    "prompt": "a yellow t-shirt",
+    "prompt_id": 794
+  },
+  {
+    "prompt": "a blue t-shirt",
+    "prompt_id": 795
+  },
+  {
+    "prompt": "a flag furling in the wind",
+    "prompt_id": 796
+  },
+  {
+    "prompt": "a white towel",
+    "prompt_id": 797
+  },
+  {
+    "prompt": "a white towel with a cat on it",
+    "prompt_id": 798
+  },
+  {
+    "prompt": "a black towel",
+    "prompt_id": 799
+  },
+  {
+    "prompt": "a black towel with a dog on it",
+    "prompt_id": 800
+  },
+  {
+    "prompt": "a yellow wall",
+    "prompt_id": 801
+  },
+  {
+    "prompt": "a friendly car in the city",
+    "prompt_id": 802
+  },
+  {
+    "prompt": "an owl family in the forest",
+    "prompt_id": 803
+  },
+  {
+    "prompt": "a kangaroo jumping through the park",
+    "prompt_id": 804
+  },
+  {
+    "prompt": "a street in Paris",
+    "prompt_id": 805
+  },
+  {
+    "prompt": "a canal in Venice",
+    "prompt_id": 806
+  },
+  {
+    "prompt": "a small house",
+    "prompt_id": 807
+  },
+  {
+    "prompt": "a small house on a mountain top",
+    "prompt_id": 808
+  },
+  {
+    "prompt": "the grand canyon on a cloudy day",
+    "prompt_id": 809
+  },
+  {
+    "prompt": "a house on a mountain",
+    "prompt_id": 810
+  },
+  {
+    "prompt": "a photograph of a house on a mountain",
+    "prompt_id": 811
+  },
+  {
+    "prompt": "a peaceful lakeside landscape",
+    "prompt_id": 812
+  },
+  {
+    "prompt": "a cat reading a book",
+    "prompt_id": 813
+  },
+  {
+    "prompt": "a cat reading a newspaper",
+    "prompt_id": 814
+  },
+  {
+    "prompt": "a cat reading a comic book",
+    "prompt_id": 815
+  },
+  {
+    "prompt": "a horse reading a book",
+    "prompt_id": 816
+  },
+  {
+    "prompt": "a horse reading a newspaper",
+    "prompt_id": 817
+  },
+  {
+    "prompt": "a horse reading a comic book",
+    "prompt_id": 818
+  },
+  {
+    "prompt": "a cat jumping down from a wall",
+    "prompt_id": 819
+  },
+  {
+    "prompt": "a pumpkin with a candle in it",
+    "prompt_id": 820
+  },
+  {
+    "prompt": "a sword in a stone",
+    "prompt_id": 821
+  },
+  {
+    "prompt": "an Egyptian statue",
+    "prompt_id": 822
+  },
+  {
+    "prompt": "an Egyptian statue in the desert",
+    "prompt_id": 823
+  },
+  {
+    "prompt": "a massive statue in a temple",
+    "prompt_id": 824
+  },
+  {
+    "prompt": "a circular logo on a coffee mug",
+    "prompt_id": 825
+  },
+  {
+    "prompt": "a pig in a field",
+    "prompt_id": 826
+  },
+  {
+    "prompt": "a horse in a field",
+    "prompt_id": 827
+  },
+  {
+    "prompt": "a squirrel in a field",
+    "prompt_id": 828
+  },
+  {
+    "prompt": "a tiger in a field",
+    "prompt_id": 829
+  },
+  {
+    "prompt": "a pig in a forest",
+    "prompt_id": 830
+  },
+  {
+    "prompt": "a horse in a forest",
+    "prompt_id": 831
+  },
+  {
+    "prompt": "a squirrel in a forest",
+    "prompt_id": 832
+  },
+  {
+    "prompt": "a tiger in a forest",
+    "prompt_id": 833
+  },
+  {
+    "prompt": "a hammer on a table",
+    "prompt_id": 834
+  },
+  {
+    "prompt": "a screwdriver on a table",
+    "prompt_id": 835
+  },
+  {
+    "prompt": "a handsaw on a table",
+    "prompt_id": 836
+  },
+  {
+    "prompt": "a power drill on a table",
+    "prompt_id": 837
+  },
+  {
+    "prompt": "a bloody mary cocktail",
+    "prompt_id": 838
+  },
+  {
+    "prompt": "an old-fashioned cocktail",
+    "prompt_id": 839
+  },
+  {
+    "prompt": "a long-island ice tea cocktail",
+    "prompt_id": 840
+  },
+  {
+    "prompt": "a tree surrounded by flowers",
+    "prompt_id": 841
+  },
+  {
+    "prompt": "a street with several cars on it",
+    "prompt_id": 842
+  },
+  {
+    "prompt": "an avocado on a table",
+    "prompt_id": 843
+  },
+  {
+    "prompt": "a kitchen with a large refrigerator",
+    "prompt_id": 844
+  },
+  {
+    "prompt": "weeds in the cracks of a sidewalk",
+    "prompt_id": 845
+  },
+  {
+    "prompt": "a wood treehouse in an oak tree",
+    "prompt_id": 846
+  },
+  {
+    "prompt": "a metal treehouse in an oak tree",
+    "prompt_id": 847
+  },
+  {
+    "prompt": "a violin next to an apple",
+    "prompt_id": 848
+  },
+  {
+    "prompt": "a room with two chairs and a painting",
+    "prompt_id": 849
+  },
+  {
+    "prompt": "a canal in Amsterdam",
+    "prompt_id": 850
+  },
+  {
+    "prompt": "red apples on a tree with green leaves",
+    "prompt_id": 851
+  },
+  {
+    "prompt": "a stop sign",
+    "prompt_id": 852
+  },
+  {
+    "prompt": "a yield sign",
+    "prompt_id": 853
+  },
+  {
+    "prompt": "a mountain with a cloud hanging over it",
+    "prompt_id": 854
+  },
+  {
+    "prompt": "a bottle of red wine",
+    "prompt_id": 855
+  },
+  {
+    "prompt": "wine bottles",
+    "prompt_id": 856
+  },
+  {
+    "prompt": "the cover of a book about gardening",
+    "prompt_id": 857
+  },
+  {
+    "prompt": "a milk container on a table",
+    "prompt_id": 858
+  },
+  {
+    "prompt": "a milk container in a refrigerator",
+    "prompt_id": 859
+  },
+  {
+    "prompt": "a marine iguana crossing the street",
+    "prompt_id": 860
+  },
+  {
+    "prompt": "cash on a stone floor",
+    "prompt_id": 861
+  },
+  {
+    "prompt": "a half-peeled banana",
+    "prompt_id": 862
+  },
+  {
+    "prompt": "a black baseball hat",
+    "prompt_id": 863
+  },
+  {
+    "prompt": "black hi-top sneakers",
+    "prompt_id": 864
+  },
+  {
+    "prompt": "a roast turkey on the table",
+    "prompt_id": 865
+  },
+  {
+    "prompt": "a plate with white rice topped by cooked vegetables",
+    "prompt_id": 866
+  },
+  {
+    "prompt": "slices of avocado on a piece of toast",
+    "prompt_id": 867
+  },
+  {
+    "prompt": "slices of mango on a piece of toast",
+    "prompt_id": 868
+  },
+  {
+    "prompt": "a bamboo ladder",
+    "prompt_id": 869
+  },
+  {
+    "prompt": "a cat jumps over a baby gate",
+    "prompt_id": 870
+  },
+  {
+    "prompt": "an ostrich standing on a couch",
+    "prompt_id": 871
+  },
+  {
+    "prompt": "a taxi driving in the countryside",
+    "prompt_id": 872
+  },
+  {
+    "prompt": "a two lane road with a bright yellow line ",
+    "prompt_id": 873
+  },
+  {
+    "prompt": "a road ruined by an earthquake",
+    "prompt_id": 874
+  },
+  {
+    "prompt": "a volcano erupting near a small town",
+    "prompt_id": 875
+  },
+  {
+    "prompt": "a volcano with lava pouring down its slopes",
+    "prompt_id": 876
+  },
+  {
+    "prompt": "a horse running in a field",
+    "prompt_id": 877
+  },
+  {
+    "prompt": "a robot cooking",
+    "prompt_id": 878
+  },
+  {
+    "prompt": "a robot cooking in the kitchen",
+    "prompt_id": 879
+  },
+  {
+    "prompt": "a compass next to a piece of fruit",
+    "prompt_id": 880
+  },
+  {
+    "prompt": "the silhouette of an elephant",
+    "prompt_id": 881
+  },
+  {
+    "prompt": "a tree growing through a fence",
+    "prompt_id": 882
+  },
+  {
+    "prompt": "a butterfly kite stuck high in a tree",
+    "prompt_id": 883
+  },
+  {
+    "prompt": "a unicorn with a multicolored mane",
+    "prompt_id": 884
+  },
+  {
+    "prompt": "a crown with a ruby in its center",
+    "prompt_id": 885
+  },
+  {
+    "prompt": "an ornate jewel-encrusted key",
+    "prompt_id": 886
+  },
+  {
+    "prompt": "a goat wearing headphones",
+    "prompt_id": 887
+  },
+  {
+    "prompt": "a small tree covered in white blossoms",
+    "prompt_id": 888
+  },
+  {
+    "prompt": "an antique chest",
+    "prompt_id": 889
+  },
+  {
+    "prompt": "a coffee table with a magazine on it",
+    "prompt_id": 890
+  },
+  {
+    "prompt": "a yellow wall with two framed sketches",
+    "prompt_id": 891
+  },
+  {
+    "prompt": "a squirrell driving a toy car",
+    "prompt_id": 892
+  },
+  {
+    "prompt": "a penguin standing on a sidewalk",
+    "prompt_id": 893
+  },
+  {
+    "prompt": "a pair of glasses under a computer monitor",
+    "prompt_id": 894
+  },
+  {
+    "prompt": "a throw rug on a stone floor",
+    "prompt_id": 895
+  },
+  {
+    "prompt": "a beach with apartment buildings next to it",
+    "prompt_id": 896
+  },
+  {
+    "prompt": "a moose standing over a fox",
+    "prompt_id": 897
+  },
+  {
+    "prompt": "a massive statue of Hanuman",
+    "prompt_id": 898
+  },
+  {
+    "prompt": "a black t-shirt",
+    "prompt_id": 899
+  },
+  {
+    "prompt": "a small airplane",
+    "prompt_id": 900
+  },
+  {
+    "prompt": "an airplane taking off of a runway",
+    "prompt_id": 901
+  },
+  {
+    "prompt": "a monarch butterfly",
+    "prompt_id": 902
+  },
+  {
+    "prompt": "a lizard that just lost its tail",
+    "prompt_id": 903
+  },
+  {
+    "prompt": "a golden doorknocker on a red door",
+    "prompt_id": 904
+  },
+  {
+    "prompt": "a pitcher of orange juice",
+    "prompt_id": 905
+  },
+  {
+    "prompt": "a glass of orange juice",
+    "prompt_id": 906
+  },
+  {
+    "prompt": "a green pepper cut in half on a plate",
+    "prompt_id": 907
+  },
+  {
+    "prompt": "a green pepper sliced into many pieces",
+    "prompt_id": 908
+  },
+  {
+    "prompt": "a full pint of IPA",
+    "prompt_id": 909
+  },
+  {
+    "prompt": "a half-full pitcher of stout",
+    "prompt_id": 910
+  },
+  {
+    "prompt": "Times Square during the day",
+    "prompt_id": 911
+  },
+  {
+    "prompt": "Times Square at night",
+    "prompt_id": 912
+  },
+  {
+    "prompt": "the Kremlin at night",
+    "prompt_id": 913
+  },
+  {
+    "prompt": "a hot air balloon floating by the Kremlin",
+    "prompt_id": 914
+  },
+  {
+    "prompt": "a black shoe with a lightning bolt on it",
+    "prompt_id": 915
+  },
+  {
+    "prompt": "a plant with small flowers with purple petals",
+    "prompt_id": 916
+  },
+  {
+    "prompt": "a plant with orange flowers shaped like stars",
+    "prompt_id": 917
+  },
+  {
+    "prompt": "a flower with large yellow petals",
+    "prompt_id": 918
+  },
+  {
+    "prompt": "a yellow diamond-shaped sign",
+    "prompt_id": 919
+  },
+  {
+    "prompt": "an elephant in a tennis court",
+    "prompt_id": 920
+  },
+  {
+    "prompt": "a silver fire hydrant next to a sidewalk",
+    "prompt_id": 921
+  },
+  {
+    "prompt": "a yellow fire hydrant in grass",
+    "prompt_id": 922
+  },
+  {
+    "prompt": "a red fire hydrant by a brick wall",
+    "prompt_id": 923
+  },
+  {
+    "prompt": "a rusty fire hydrant surrounded by dirt",
+    "prompt_id": 924
+  },
+  {
+    "prompt": "a fire hydrant with graffiti on it",
+    "prompt_id": 925
+  },
+  {
+    "prompt": "a snake curled around a wooden post",
+    "prompt_id": 926
+  },
+  {
+    "prompt": "a grand piano with a white bench",
+    "prompt_id": 927
+  },
+  {
+    "prompt": "a piano with Christmas lights all over it",
+    "prompt_id": 928
+  },
+  {
+    "prompt": "an ornate gold harp",
+    "prompt_id": 929
+  },
+  {
+    "prompt": "a massive modern windmill",
+    "prompt_id": 930
+  },
+  {
+    "prompt": "a red sport bike",
+    "prompt_id": 931
+  },
+  {
+    "prompt": "a painting of black and white vertical stripes",
+    "prompt_id": 932
+  },
+  {
+    "prompt": "a painting of black and white checkerboard",
+    "prompt_id": 933
+  },
+  {
+    "prompt": "a team playing baseball",
+    "prompt_id": 934
+  },
+  {
+    "prompt": "children on a couch",
+    "prompt_id": 935
+  },
+  {
+    "prompt": "a woman with long hair",
+    "prompt_id": 936
+  },
+  {
+    "prompt": "a man standing under a tree",
+    "prompt_id": 937
+  },
+  {
+    "prompt": "a smiling man",
+    "prompt_id": 938
+  },
+  {
+    "prompt": "an elderly woman",
+    "prompt_id": 939
+  },
+  {
+    "prompt": "an old man",
+    "prompt_id": 940
+  },
+  {
+    "prompt": "a man with puppet",
+    "prompt_id": 941
+  },
+  {
+    "prompt": "a boy going to school",
+    "prompt_id": 942
+  },
+  {
+    "prompt": "a girl going to a farm",
+    "prompt_id": 943
+  },
+  {
+    "prompt": "a family on a road trip",
+    "prompt_id": 944
+  },
+  {
+    "prompt": "a father and a son playing tennis",
+    "prompt_id": 945
+  },
+  {
+    "prompt": "a man heading a soccer ball",
+    "prompt_id": 946
+  },
+  {
+    "prompt": "a sad man with green hair",
+    "prompt_id": 947
+  },
+  {
+    "prompt": "a woman with sunglasses and red hair",
+    "prompt_id": 948
+  },
+  {
+    "prompt": "a man looking at a distant mountain",
+    "prompt_id": 949
+  },
+  {
+    "prompt": "a woman looking at a house",
+    "prompt_id": 950
+  },
+  {
+    "prompt": "a man riding a horse",
+    "prompt_id": 951
+  },
+  {
+    "prompt": "a man chasing a cat",
+    "prompt_id": 952
+  },
+  {
+    "prompt": "a man chasing a horse",
+    "prompt_id": 953
+  },
+  {
+    "prompt": "a pumpkin on a man's head",
+    "prompt_id": 954
+  },
+  {
+    "prompt": "an angry man",
+    "prompt_id": 955
+  },
+  {
+    "prompt": "a frustrated child",
+    "prompt_id": 956
+  },
+  {
+    "prompt": "a laughing woman",
+    "prompt_id": 957
+  },
+  {
+    "prompt": "a woman running on a trail",
+    "prompt_id": 958
+  },
+  {
+    "prompt": "a boy jumping off a wall",
+    "prompt_id": 959
+  },
+  {
+    "prompt": "a girl diving into a pool",
+    "prompt_id": 960
+  },
+  {
+    "prompt": "a man banging on a door",
+    "prompt_id": 961
+  },
+  {
+    "prompt": "a comic book supervillian",
+    "prompt_id": 962
+  },
+  {
+    "prompt": "Downtown Istanbul at sunrise. detailed ink wash.",
+    "prompt_id": 963
+  },
+  {
+    "prompt": "Downtown Seattle at sunrise. detailed ink wash.",
+    "prompt_id": 964
+  },
+  {
+    "prompt": "Downtown Beijing at sunrise. detailed ink wash.",
+    "prompt_id": 965
+  },
+  {
+    "prompt": "Downtown LA at sunrise. detailed ink wash.",
+    "prompt_id": 966
+  },
+  {
+    "prompt": "Downtown Sydney at sunrise. detailed ink wash.",
+    "prompt_id": 967
+  },
+  {
+    "prompt": "Downtown Sanfrancisco at sunrise. detailed ink wash.",
+    "prompt_id": 968
+  },
+  {
+    "prompt": "Downtown Singapore at sunrise. detailed ink wash.",
+    "prompt_id": 969
+  },
+  {
+    "prompt": "Downtown NYC at sunrise. detailed ink wash.",
+    "prompt_id": 970
+  },
+  {
+    "prompt": "Downtown Austin at sunrise. detailed ink wash.",
+    "prompt_id": 971
+  },
+  {
+    "prompt": "Downtown Shanghai at sunrise. detailed ink wash.",
+    "prompt_id": 972
+  },
+  {
+    "prompt": "Downtown Saigon at sunrise. detailed ink wash.",
+    "prompt_id": 973
+  },
+  {
+    "prompt": "A spaceship made of cardboard.",
+    "prompt_id": 974
+  },
+  {
+    "prompt": "A old phonograph made of cardboard.",
+    "prompt_id": 975
+  },
+  {
+    "prompt": "A castle made of cardboard.",
+    "prompt_id": 976
+  },
+  {
+    "prompt": "A photo of a dragonfly made of water.",
+    "prompt_id": 977
+  },
+  {
+    "prompt": "A photo of a panda made of water.",
+    "prompt_id": 978
+  },
+  {
+    "prompt": "A photo of a crocodile made of water.",
+    "prompt_id": 979
+  },
+  {
+    "prompt": "Oil painting generated by artificial intelligence",
+    "prompt_id": 980
+  },
+  {
+    "prompt": "Wood engraving of the Greek letter Omega",
+    "prompt_id": 981
+  },
+  {
+    "prompt": "Hokusai's version of Animal Farm",
+    "prompt_id": 982
+  },
+  {
+    "prompt": "The Oriental Pearl in sketch style",
+    "prompt_id": 983
+  },
+  {
+    "prompt": "The Oriental Pearl in Chinese painting",
+    "prompt_id": 984
+  },
+  {
+    "prompt": "The Oriental Pearl in oil painting",
+    "prompt_id": 985
+  },
+  {
+    "prompt": "Icon of a red heart",
+    "prompt_id": 986
+  },
+  {
+    "prompt": "A cartoon house with red roof",
+    "prompt_id": 987
+  },
+  {
+    "prompt": "A cartoon tiger face",
+    "prompt_id": 988
+  },
+  {
+    "prompt": "Face of an orange frog in cartoon style",
+    "prompt_id": 989
+  },
+  {
+    "prompt": "A vector illustration of a tree",
+    "prompt_id": 990
+  },
+  {
+    "prompt": "an abstract painting of the Empire State Building",
+    "prompt_id": 991
+  },
+  {
+    "prompt": "an abstract painting of the Sydney Opera House",
+    "prompt_id": 992
+  },
+  {
+    "prompt": "an oil painting of a cat playing checkers",
+    "prompt_id": 993
+  },
+  {
+    "prompt": "an oil painting of a hamster dragon",
+    "prompt_id": 994
+  },
+  {
+    "prompt": "a stained glass window of a panda eating bamboo",
+    "prompt_id": 995
+  },
+  {
+    "prompt": "a crayon drawing of a space elevator",
+    "prompt_id": 996
+  },
+  {
+    "prompt": "a futuristic city in synthwave style",
+    "prompt_id": 997
+  },
+  {
+    "prompt": "a pixel art corgi pizza",
+    "prompt_id": 998
+  },
+  {
+    "prompt": "a green clock in the shape of a pentagon",
+    "prompt_id": 999
+  },
+  {
+    "prompt": "a painting of the food of china",
+    "prompt_id": 1000
+  },
+  {
+    "prompt": "a photograph of a bust of homer",
+    "prompt_id": 1001
+  },
+  {
+    "prompt": "a drawing of a bust of homer",
+    "prompt_id": 1002
+  },
+  {
+    "prompt": "an armchair in the shape of an avocado",
+    "prompt_id": 1003
+  },
+  {
+    "prompt": "a painting of the skyline of New York City",
+    "prompt_id": 1004
+  },
+  {
+    "prompt": "a drawing of the skyline of New York City",
+    "prompt_id": 1005
+  },
+  {
+    "prompt": "a cartoon of a train going to the moon",
+    "prompt_id": 1006
+  },
+  {
+    "prompt": "a cartoon of a cow jumping over the moon",
+    "prompt_id": 1007
+  },
+  {
+    "prompt": "orange jello in the shape of a man",
+    "prompt_id": 1008
+  },
+  {
+    "prompt": "a comic about a friendly car in the city",
+    "prompt_id": 1009
+  },
+  {
+    "prompt": "a painting of street in Paris",
+    "prompt_id": 1010
+  },
+  {
+    "prompt": "a painting of a canal in Venice",
+    "prompt_id": 1011
+  },
+  {
+    "prompt": "an abstract painting with blue, red and black",
+    "prompt_id": 1012
+  },
+  {
+    "prompt": "an abstract painting of a waterfall",
+    "prompt_id": 1013
+  },
+  {
+    "prompt": "an abstract painting of a spaceship",
+    "prompt_id": 1014
+  },
+  {
+    "prompt": "an abstract painting of a pond with a bridge",
+    "prompt_id": 1015
+  },
+  {
+    "prompt": "a cartoon of an angry shark",
+    "prompt_id": 1016
+  },
+  {
+    "prompt": "a cartoon of a happy car on the road",
+    "prompt_id": 1017
+  },
+  {
+    "prompt": "a cartoon of a bear birthday party",
+    "prompt_id": 1018
+  },
+  {
+    "prompt": "a drawing of a house on a mountain",
+    "prompt_id": 1019
+  },
+  {
+    "prompt": "a cartoon of a house on a mountain",
+    "prompt_id": 1020
+  },
+  {
+    "prompt": "a painting of a house on a mountain",
+    "prompt_id": 1021
+  },
+  {
+    "prompt": "an abstract painting of a house on a mountain",
+    "prompt_id": 1022
+  },
+  {
+    "prompt": "a painting of a peaceful lakeside landscape",
+    "prompt_id": 1023
+  },
+  {
+    "prompt": "a drawing of a peaceful lakeside landscape",
+    "prompt_id": 1024
+  },
+  {
+    "prompt": "a map of Australia",
+    "prompt_id": 1025
+  },
+  {
+    "prompt": "a map of Italy",
+    "prompt_id": 1026
+  },
+  {
+    "prompt": "a map of South America",
+    "prompt_id": 1027
+  },
+  {
+    "prompt": "a map of Texas",
+    "prompt_id": 1028
+  },
+  {
+    "prompt": "a map of Manhattan",
+    "prompt_id": 1029
+  },
+  {
+    "prompt": "an abstract painting of a tree and a building",
+    "prompt_id": 1030
+  },
+  {
+    "prompt": "a watercolor painting of a tree and a building",
+    "prompt_id": 1031
+  },
+  {
+    "prompt": "an oil painting of a tree and a building",
+    "prompt_id": 1032
+  },
+  {
+    "prompt": "a painting of a cute owl on a box",
+    "prompt_id": 1033
+  },
+  {
+    "prompt": "a horse in a field in Minecraft style",
+    "prompt_id": 1034
+  },
+  {
+    "prompt": "a drawing of a hammer",
+    "prompt_id": 1035
+  },
+  {
+    "prompt": "a drawing of a screwdriver",
+    "prompt_id": 1036
+  },
+  {
+    "prompt": "a drawing of a handsaw",
+    "prompt_id": 1037
+  },
+  {
+    "prompt": "a drawing of a power drill",
+    "prompt_id": 1038
+  },
+  {
+    "prompt": "a cloud in the shape of a teacup",
+    "prompt_id": 1039
+  },
+  {
+    "prompt": "a cloud in the shape of a elephant",
+    "prompt_id": 1040
+  },
+  {
+    "prompt": "a cloud in the shape of a castle",
+    "prompt_id": 1041
+  },
+  {
+    "prompt": "a footprint shaped like a peanut",
+    "prompt_id": 1042
+  },
+  {
+    "prompt": "a drawing of a stork playing a violin",
+    "prompt_id": 1043
+  },
+  {
+    "prompt": "The Statue of Liberty in Minecraft",
+    "prompt_id": 1044
+  },
+  {
+    "prompt": "An oil painting of the Statue of Liberty",
+    "prompt_id": 1045
+  },
+  {
+    "prompt": "An abstract painting of the Statue of Liberty",
+    "prompt_id": 1046
+  },
+  {
+    "prompt": "a diagram of brain function",
+    "prompt_id": 1047
+  },
+  {
+    "prompt": "a diagram of the human digestive system",
+    "prompt_id": 1048
+  },
+  {
+    "prompt": "a diagram of a suburban house",
+    "prompt_id": 1049
+  },
+  {
+    "prompt": "a stop sign with a blue background",
+    "prompt_id": 1050
+  },
+  {
+    "prompt": "a sketch of a horse",
+    "prompt_id": 1051
+  },
+  {
+    "prompt": "a sketch of a skyscraper",
+    "prompt_id": 1052
+  },
+  {
+    "prompt": "a sketch of a train",
+    "prompt_id": 1053
+  },
+  {
+    "prompt": "a sketch of a camel next to a stream",
+    "prompt_id": 1054
+  },
+  {
+    "prompt": "a diagram of the star constellations",
+    "prompt_id": 1055
+  },
+  {
+    "prompt": "a thumbnail image of an ice cream cone",
+    "prompt_id": 1056
+  },
+  {
+    "prompt": "a thumbnail image of a horse and cart",
+    "prompt_id": 1057
+  },
+  {
+    "prompt": "background pattern with alternating roses and skulls",
+    "prompt_id": 1058
+  },
+  {
+    "prompt": "graffiti of a funny dog on a street wall",
+    "prompt_id": 1059
+  },
+  {
+    "prompt": "graffiti of a rocket ship on a brick wall",
+    "prompt_id": 1060
+  },
+  {
+    "prompt": "a cardboard spaceship",
+    "prompt_id": 1061
+  },
+  {
+    "prompt": "a diagram of the solar system",
+    "prompt_id": 1062
+  },
+  {
+    "prompt": "an abstract painting of the lights at Times Square",
+    "prompt_id": 1063
+  },
+  {
+    "prompt": "an abstract drawing of the Great Wall",
+    "prompt_id": 1064
+  },
+  {
+    "prompt": "a diagram of the Great Wall",
+    "prompt_id": 1065
+  },
+  {
+    "prompt": "a map showing the Great Wall",
+    "prompt_id": 1066
+  },
+  {
+    "prompt": "a still life painting of a pair of shoes",
+    "prompt_id": 1067
+  },
+  {
+    "prompt": "an impressionist painting of the geyser Old Faithful",
+    "prompt_id": 1068
+  },
+  {
+    "prompt": "an abstract painting of the Great Pyramid",
+    "prompt_id": 1069
+  },
+  {
+    "prompt": "a diagram of the inside of the Great Pyramid",
+    "prompt_id": 1070
+  },
+  {
+    "prompt": "a painting of ten children on a couch",
+    "prompt_id": 1071
+  },
+  {
+    "prompt": "a painting of a man standing under a tree",
+    "prompt_id": 1072
+  },
+  {
+    "prompt": "a drawing of a man standing under a tree",
+    "prompt_id": 1073
+  },
+  {
+    "prompt": "a cartoon of a man standing under a tree",
+    "prompt_id": 1074
+  },
+  {
+    "prompt": "a comic about a boy going to school",
+    "prompt_id": 1075
+  },
+  {
+    "prompt": "a comic about a girl going to a farm",
+    "prompt_id": 1076
+  },
+  {
+    "prompt": "a comic about a boy and a tiger",
+    "prompt_id": 1077
+  },
+  {
+    "prompt": "a comic about a family on a road trip",
+    "prompt_id": 1078
+  },
+  {
+    "prompt": "a cartoon of a boy playing with a tiger",
+    "prompt_id": 1079
+  },
+  {
+    "prompt": "the mona lisa",
+    "prompt_id": 1080
+  },
+  {
+    "prompt": "the Mona Lisa in the style of Minecraft",
+    "prompt_id": 1081
+  },
+  {
+    "prompt": "a thumbnail image of a person skiing",
+    "prompt_id": 1082
+  },
+  {
+    "prompt": "a thumbnail image of a gingerbread man",
+    "prompt_id": 1083
+  },
+  {
+    "prompt": "the cover of The Beatle's album Revolver",
+    "prompt_id": 1084
+  }
+]
